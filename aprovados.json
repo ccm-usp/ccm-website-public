@@ -71,6 +71,11 @@
       "instituto": "Instituto de Física"
     },
     {
+      "nome": "Halley Lopes Becegato",
+      "curso": "Geofísica",
+      "instituto": "Instituto de Astronomia, Geofísica e Ciências Atmosféricas"
+    },
+    {
       "nome": "Isadora Luíza Robles Patrício",
       "curso": "Enfermagem",
       "instituto": "Escola de Enfermagem"
@@ -89,11 +94,6 @@
       "nome": "Jun Igor Valente Inenami ",
       "curso": "Química",
       "instituto": "Instituto de Química"
-    },
-    {
-      "nome": "Halley Lopes Becegato",
-      "curso": "Geofísica",
-      "instituto": "Instituto de Astronomia, Geofísica e Ciências Atmosféricas"
     },
     {
       "nome": "Liana Formiga Rocha",
