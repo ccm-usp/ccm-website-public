@@ -1,9 +1,189 @@
 {
-    "aprovados": [
-      {
-        "nome": "Em breve",
-        "curso": "",
-        "instituto": ""
-      }
-    ]
-  }
+  "aprovados": [
+    {
+      "nome": "Augusto Mariano Bernardi",
+      "curso": "Mecatrônica",
+      "instituto": "Escola Politécnica"
+    },
+    {
+      "nome": "Breno Pereira de Sousa",
+      "curso": "Educação Física e Esporte",
+      "instituto": "Escola de Educação Física e Esporte "
+    },
+    {
+      "nome": "Bruno José Teixeira de Melo",
+      "curso": "Química",
+      "instituto": "Instituto de Química"
+    },
+    {
+      "nome": "Caio Pereira da Silva",
+      "curso": "Meteorologia",
+      "instituto": "Instituto de Astronomia, Geofísica e Ciências Atmosféricas"
+    },
+    {
+      "nome": "Carlos Orledo Costa Andrade Filho",
+      "curso": "Engenharia de Materiais, Metalúrgica e Nuclear",
+      "instituto": "Escola Politécnica"
+    },
+    {
+      "nome": "Carolina Salvatierra Neves",
+      "curso": "Engenharia de Materiais, Metalúrgica e Nuclear",
+      "instituto": "Escola Politécnica"
+    },
+    {
+      "nome": "Daniel de Castro Souza",
+      "curso": "Engenharia Física",
+      "instituto": "Escola de Engenharia de Lorena"
+    },
+    {
+      "nome": "Davi Gressler de Oliveira",
+      "curso": "Física",
+      "instituto": "Instituto de Física"
+    },
+    {
+      "nome": "Enrico Rodrigues Ravazzani Simoni",
+      "curso": "Economia Empresarial e Controladoria",
+      "instituto": "Faculdade de Economia, Administração, Contabilidade e Atuária"
+    },
+    {
+      "nome": "Felipe Scalise Gaspar",
+      "curso": "Química",
+      "instituto": "Instituto de Química"
+    },
+    {
+      "nome": "Fernando Pacheco Cintra",
+      "curso": "Química",
+      "instituto": "Instituto de Química"
+    },
+    {
+      "nome": "Fernando Pimenta Nogueira",
+      "curso": "Física",
+      "instituto": "Instituto de Física"
+    },
+    {
+      "nome": "Guilherme Tiago Goes Baceti",
+      "curso": "Física",
+      "instituto": "Instituto de Física"
+    },
+    {
+      "nome": "Gustavo Baracat Alvares Martins",
+      "curso": "Física",
+      "instituto": "Instituto de Física"
+    },
+    {
+      "nome": "Isadora Luíza Robles Patrício",
+      "curso": "Enfermagem",
+      "instituto": "Escola de Enfermagem"
+    },
+    {
+      "nome": "José Pedro Brito de Azevedo Faustino",
+      "curso": "Engenharia de Computação",
+      "instituto": "Escola Politécnica"
+    },
+    {
+      "nome": "Júlio Vinícius Rodrigues Miguel",
+      "curso": "Física",
+      "instituto": "Instituto de Física"
+    },
+    {
+      "nome": "Jun Igor Valente Inenami ",
+      "curso": "Química",
+      "instituto": "Instituto de Química"
+    },
+    {
+      "nome": "Leonardo Lopes Becegato",
+      "curso": "Geofísica",
+      "instituto": "Instituto de Astronomia, Geofísica e Ciências Atmosféricas"
+    },
+    {
+      "nome": "Liana Formiga Rocha",
+      "curso": "Relações Internacionais",
+      "instituto": "Instituto de Relações Internacionais"
+    },
+    {
+      "nome": "Luana dos Santos Neres",
+      "curso": "Ciências Biológicas",
+      "instituto": "Instituto de Biociências"
+    },
+    {
+      "nome": "Marcelo Mesa Costa Lima",
+      "curso": "Ciências Biológicas",
+      "instituto": "Instituto de Biociências"
+    },
+    {
+      "nome": "Maria Carolina Palma Terzian",
+      "curso": "Geofísica",
+      "instituto": "Instituto de Astronomia, Geofísica e Ciências Atmosféricas"
+    },
+    {
+      "nome": "Marina Alves Kawamura",
+      "curso": "História",
+      "instituto": "Faculdade de Filosofia, Letras e Ciências Humanas"
+    },
+    {
+      "nome": "Pedro Henrique Teixeira Tavares",
+      "curso": "Física",
+      "instituto": "Instituto de Física"
+    },
+    {
+      "nome": "Pedro Lúcio Corsino Marchioni",
+      "curso": "Oceanografia",
+      "instituto": "Instituto de Oceanografia"
+    },
+    {
+      "nome": "Pedro Pupo Candido",
+      "curso": "Engenharia Naval",
+      "instituto": "Escola Politécnica"
+    },
+    {
+      "nome": "Pedro Saccomani",
+      "curso": "Sistemas de Informação",
+      "instituto": "Escola de Artes, Ciências e Humanidades"
+    },
+    {
+      "nome": "Pedro Silveira Prodonoff",
+      "curso": "Química",
+      "instituto": "Instituto de Química"
+    },
+    {
+      "nome": "Pedro Varela Gomes",
+      "curso": "Química",
+      "instituto": "Instituto de Química"
+    },
+    {
+      "nome": "Pedro Yudi Honda",
+      "curso": "Química",
+      "instituto": "Instituto de Química"
+    },
+    {
+      "nome": "Sabrina Domec Strachman",
+      "curso": "Ciências Biológicas",
+      "instituto": "Instituto de Biociências"
+    },
+    {
+      "nome": "Silas Michael Batista Guedes",
+      "curso": "Física",
+      "instituto": "Instituto de Física"
+    },
+    {
+      "nome": "Thales David Domingues Aparecido",
+      "curso": "Matemática Aplicada",
+      "instituto": "Instituto de Física"
+    },
+    {
+      "nome": "Victor Gabriel Alvarenga de Paula",
+      "curso": "Geografia",
+      "instituto": "Faculdade de Filosofia, Letras e Ciências Humanas"
+    },
+    {
+      "nome": "Wallison Ribeiro Mendes",
+      "curso": "Física",
+      "instituto": "Instituto de Física"
+    },
+    {
+      "nome": "Zake Marin Domit",
+      "curso": "Engenharia",
+      "instituto": "Escola Politécnica"
+    }
+  ]
+}
