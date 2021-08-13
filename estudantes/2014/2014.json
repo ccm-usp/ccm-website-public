@@ -12,7 +12,7 @@
         {"nome": "Thiago Tarraf Varella", "hasPage": false},
         {"nome": "Vitor Heidrich", "hasPage": false}
     ],
-    "hasPhotos": true,
+    "hasPhotos": false,
     "hasMainPhoto": true,
     "institutos": false
 }
