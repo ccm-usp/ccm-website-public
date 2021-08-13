@@ -1,9 +1,9 @@
 {
-    "nomes": [
-        "Edgar Szilagyi",
-        "Pedro Lauridsen Ribeiro",
-        "Raphael Y. de Camargo",
-        "Ricardo Hauch Ribeiro de Castro"
+    "estudantes": [
+        {"nome": "Edgar Szilagyi", "hasPage": false},
+        {"nome": "Pedro Lauridsen Ribeiro", "hasPage": false},
+        {"nome": "Raphael Y. de Camargo", "hasPage": false},
+        {"nome": "Ricardo Hauch Ribeiro de Castro", "hasPage": false}
     ],
     "hasPhotos": false,
     "hasMainPhoto": false,

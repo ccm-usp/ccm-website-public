@@ -1,12 +1,12 @@
 {
-    "nomes": [
-        "Alexis Sakurai Landgraf Carvalho",
-        "Andrea Sterman Heimann",
-        "Daniel Rodrigo F. Trzesniak",
-        "Eduardo J. M. Barbosa Junior",
-        "Ivam Pereira Mendes Neto",
-        "Luciano G. Buratto",
-        "Tiago M. Castilho"
+    "estudantes": [
+        {"nome": "Alexis Sakurai Landgraf Carvalho", "hasPage": false},
+        {"nome": "Andrea Sterman Heimann", "hasPage": false},
+        {"nome": "Daniel Rodrigo F. Trzesniak", "hasPage": false},
+        {"nome": "Eduardo J. M. Barbosa Junior", "hasPage": false},
+        {"nome": "Ivam Pereira Mendes Neto", "hasPage": false},
+        {"nome": "Luciano G. Buratto", "hasPage": false},
+        {"nome": "Tiago M. Castilho", "hasPage": false}
     ],
     "hasPhotos": false,
     "hasMainPhoto": false,

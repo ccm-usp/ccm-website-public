@@ -1,14 +1,14 @@
 {
-    "nomes": [
-        "Alex Kunze Susemihl",
-        "Cecilia Romaro",
-        "Fernanda Raquel Pinheiro",
-        "Marina Trombetta Lima",
-        "Renato Mendes Coutinho",
-        "Ronaldo da Silva Alves Batista",
-        "Ubiratan Augusto Lima",
-        "Vitor Eiji Justus Sakaguti",
-        "Yul Otani"
+    "estudantes": [
+        {"nome": "Alex Kunze Susemihl", "hasPage": false},
+        {"nome": "Cecilia Romaro", "hasPage": false},
+        {"nome": "Fernanda Raquel Pinheiro", "hasPage": false},
+        {"nome": "Marina Trombetta Lima", "hasPage": false},
+        {"nome": "Renato Mendes Coutinho", "hasPage": false},
+        {"nome": "Ronaldo da Silva Alves Batista", "hasPage": false},
+        {"nome": "Ubiratan Augusto Lima", "hasPage": false},
+        {"nome": "Vitor Eiji Justus Sakaguti", "hasPage": false},
+        {"nome": "Yul Otani", "hasPage": false}
     ],
     "hasPhotos": false,
     "hasMainPhoto": false,

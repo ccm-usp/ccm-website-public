@@ -1,10 +1,10 @@
 {
-    "nomes": [
-        "Carolina Fraga Leslie",
-        "Claudinei Eduardo Biazoli Júnior",
-        "Douglas Galante",
-        "Guilherme Amadio",
-        "Gustavo Troiano Feliciano"
+    "estudantes": [
+        {"nome": "Carolina Fraga Leslie", "hasPage": false},
+        {"nome": "Claudinei Eduardo Biazoli Júnior", "hasPage": false},
+        {"nome": "Douglas Galante", "hasPage": false},
+        {"nome": "Guilherme Amadio", "hasPage": false},
+        {"nome": "Gustavo Troiano Feliciano", "hasPage": false}
     ],
     "hasPhotos": false,
     "hasMainPhoto": true,

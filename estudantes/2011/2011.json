@@ -1,17 +1,17 @@
 {
-    "nomes": [
-        "Caique Meira Ronqui",
-        "Henrique Rubira",
-        "Igor Rosiello Zenker",
-        "Luccas Sanches",
-        "Marcel André Vieira Lara",
-        "Marcos Kunihiro Masukawa",
-        "Pedro Moreira Germani",
-        "Rafael Ruggiero",
-        "Rodrigo Macena e Silva",
-        "Thaís Neves Sala",
-        "Thaís Trostli Costella",
-        "Tomás Gallo Aquino"
+    "estudantes": [
+        {"nome": "Caique Meira Ronqui", "hasPage": false},
+        {"nome": "Henrique Rubira", "hasPage": false},
+        {"nome": "Igor Rosiello Zenker", "hasPage": false},
+        {"nome": "Luccas Sanches", "hasPage": false},
+        {"nome": "Marcel André Vieira Lara", "hasPage": false},
+        {"nome": "Marcos Kunihiro Masukawa", "hasPage": false},
+        {"nome": "Pedro Moreira Germani", "hasPage": false},
+        {"nome": "Rafael Ruggiero", "hasPage": false},
+        {"nome": "Rodrigo Macena e Silva", "hasPage": false},
+        {"nome": "Thaís Neves Sala", "hasPage": false},
+        {"nome": "Thaís Trostli Costella", "hasPage": false},
+        {"nome": "Tomás Gallo Aquino", "hasPage": false}
     ],
     "hasPhotos": false,
     "hasMainPhoto": false,

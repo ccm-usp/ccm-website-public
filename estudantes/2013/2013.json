@@ -1,17 +1,17 @@
 {
-    "nomes": [
-        "Ana Paula Muche Schiavo",
-        "Eduardo Brancher Urenha",
-        "Felipe Ernesto Mesias Campos",
-        "Gustavo Rodrigues Ferreira",
-        "Leonardo Zeine Mendes de Souza",
-        "Lucas Henna Sallaberry",
-        "Lucas Rebelo Dal'Bello",
-        "Luís Gustavo Baptista e Ribeiro",
-        "Maria Gabriela Valeriano",
-        "Matheus Molina Silva",
-        "Nickolas Kokron",
-        "Renato Antunes Costa de Andrade"
+    "estudantes": [
+        {"nome": "Ana Paula Muche Schiavo", "hasPage": false},
+        {"nome": "Eduardo Brancher Urenha", "hasPage": false},
+        {"nome": "Felipe Ernesto Mesias Campos", "hasPage": false},
+        {"nome": "Gustavo Rodrigues Ferreira", "hasPage": false},
+        {"nome": "Leonardo Zeine Mendes de Souza", "hasPage": false},
+        {"nome": "Lucas Henna Sallaberry", "hasPage": false},
+        {"nome": "Lucas Rebelo Dal'Bello", "hasPage": false},
+        {"nome": "Luís Gustavo Baptista e Ribeiro", "hasPage": false},
+        {"nome": "Maria Gabriela Valeriano", "hasPage": false},
+        {"nome": "Matheus Molina Silva", "hasPage": false},
+        {"nome": "Nickolas Kokron", "hasPage": false},
+        {"nome": "Renato Antunes Costa de Andrade", "hasPage": false}
     ],
     "hasPhotos": false,
     "hasMainPhoto": false,

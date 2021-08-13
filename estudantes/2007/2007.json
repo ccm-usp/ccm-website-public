@@ -1,16 +1,16 @@
 {
-    "nomes": [
-        "Ana Carolina Bottura de Barros",
-        "Ana Carolina Ribeiro Gomez",
-        "Ana Claudia Mancusi Valeije",
-        "Felipe Augusto Araújo Dias",
-        "Hugo Musso Gualandi",
-        "Igor Pontes Duff Pereira",
-        "Ivã Passoni",
-        "João Figueiredo Nobre Cortese",
-        "José Francisco Carminatti Wenceslau",
-        "Leonardo Batoni Abdalla",
-        "Luis Gustavo Rocha Vianna"
+    "estudantes": [
+        {"nome": "Ana Carolina Bottura de Barros", "hasPage": false},
+        {"nome": "Ana Carolina Ribeiro Gomez", "hasPage": false},
+        {"nome": "Ana Claudia Mancusi Valeije", "hasPage": false},
+        {"nome": "Felipe Augusto Araújo Dias", "hasPage": false},
+        {"nome": "Hugo Musso Gualandi", "hasPage": false},
+        {"nome": "Igor Pontes Duff Pereira", "hasPage": false},
+        {"nome": "Ivã Passoni", "hasPage": false},
+        {"nome": "João Figueiredo Nobre Cortese", "hasPage": false},
+        {"nome": "José Francisco Carminatti Wenceslau", "hasPage": false},
+        {"nome": "Leonardo Batoni Abdalla", "hasPage": false},
+        {"nome": "Luis Gustavo Rocha Vianna", "hasPage": false}
     ],
     "hasPhotos": false,
     "hasMainPhoto": false,

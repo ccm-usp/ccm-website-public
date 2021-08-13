@@ -1,9 +1,9 @@
 {
-    "nomes": [
-        "Lucio Vinicius Castilho",
-        "Maria Cristina de Arruda Souza",
-        "Robson Francisco de Souza",
-        "Willian Padovani Germano"
+    "estudantes": [
+        {"nome": "Lucio Vinicius Castilho", "hasPage": false},
+        {"nome": "Maria Cristina de Arruda Souza", "hasPage": false},
+        {"nome": "Robson Francisco de Souza", "hasPage": false},
+        {"nome": "Willian Padovani Germano", "hasPage": false}
     ],
     "hasPhotos": false,
     "hasMainPhoto": false,

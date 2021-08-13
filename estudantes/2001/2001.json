@@ -1,16 +1,16 @@
 {
-    "nomes": [
-        "Camila de Almeida",
-        "Fabio Rodrigues",
-        "Hélio Zhang He",
-        "Juliane Karine Ishida",
-        "Karine Lima G. Framesqui",
-        "Leonardo Giantini Trabuco",
-        "Ludmila Brochini Rodrigues",
-        "Marcio Guilherme Bronzato de Avellar",
-        "Maria Fernanda Laranjeira da Silva",
-        "Silvia Veleirinho de O. Rocha",
-        "Sinuê Dayan Barbero Lodovici"
+    "estudantes": [
+        {"nome": "Camila de Almeida", "hasPage": false},
+        {"nome": "Fabio Rodrigues", "hasPage": false},
+        {"nome": "Hélio Zhang He", "hasPage": false},
+        {"nome": "Juliane Karine Ishida", "hasPage": false},
+        {"nome": "Karine Lima G. Framesqui", "hasPage": false},
+        {"nome": "Leonardo Giantini Trabuco", "hasPage": false},
+        {"nome": "Ludmila Brochini Rodrigues", "hasPage": false},
+        {"nome": "Marcio Guilherme Bronzato de Avellar", "hasPage": false},
+        {"nome": "Maria Fernanda Laranjeira da Silva", "hasPage": false},
+        {"nome": "Silvia Veleirinho de O. Rocha", "hasPage": false},
+        {"nome": "Sinuê Dayan Barbero Lodovici", "hasPage": false}
     ],
     "hasPhotos": false,
     "hasMainPhoto": false,

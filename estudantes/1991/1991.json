@@ -1,15 +1,15 @@
 {
-    "nomes": [
-        "Cristiane Lopes",
-        "Karin do Amaral Riske",
-        "Marcelo Mecchi Morales",
-        "Marcelo Sena",
-        "Maria Elisa Sarraf Borelli",
-        "Rafael Iosef Najmanovich Szeinfeld",
-        "Renato Vicente",
-        "Shan-Wen Tsai",
-        "Suzana Akemi Tanimoto",
-        "Tharin M. A. Blumenschein"
+    "estudantes": [
+        {"nome": "Cristiane Lopes", "hasPage": false},
+        {"nome": "Karin do Amaral Riske", "hasPage": false},
+        {"nome": "Marcelo Mecchi Morales", "hasPage": false},
+        {"nome": "Marcelo Sena", "hasPage": false},
+        {"nome": "Maria Elisa Sarraf Borelli", "hasPage": false},
+        {"nome": "Rafael Iosef Najmanovich Szeinfeld", "hasPage": false},
+        {"nome": "Renato Vicente", "hasPage": false},
+        {"nome": "Shan-Wen Tsai", "hasPage": false},
+        {"nome": "Suzana Akemi Tanimoto", "hasPage": false},
+        {"nome": "Tharin M. A. Blumenschein", "hasPage": false}
     ],
     "hasPhotos": false,
     "hasMainPhoto": false,

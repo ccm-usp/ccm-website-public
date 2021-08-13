@@ -1,10 +1,10 @@
 {
-    "nomes": [
-        "Antônio Cândido de Camargo",
-        "Cássio Nogueira de Campos",
-        "Marco Shinobu Matsumura",
-        "Roberto Slepetys",
-        "Tatiana Ortolan"
+    "estudantes": [
+        {"nome": "Antônio Cândido de Camargo", "hasPage": false},
+        {"nome": "Cássio Nogueira de Campos", "hasPage": false},
+        {"nome": "Marco Shinobu Matsumura", "hasPage": false},
+        {"nome": "Roberto Slepetys", "hasPage": false},
+        {"nome": "Tatiana Ortolan", "hasPage": false}
     ],
     "hasPhotos": false,
     "hasMainPhoto": false,

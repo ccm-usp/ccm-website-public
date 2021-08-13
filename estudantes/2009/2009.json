@@ -1,11 +1,11 @@
 {
-    "nomes": [
-        "Danilo Furlan Kaid",
-        "Francisco Quevedo Camargo",
-        "Giulia Satiko Maesaka",
-        "Leonardo Nagami Coregliano",
-        "Victor Mendizabal Coelho",
-        "Viviane Santos da Silva"
+    "estudantes": [
+        {"nome": "Danilo Furlan Kaid", "hasPage": false},
+        {"nome": "Francisco Quevedo Camargo", "hasPage": false},
+        {"nome": "Giulia Satiko Maesaka", "hasPage": false},
+        {"nome": "Leonardo Nagami Coregliano", "hasPage": false},
+        {"nome": "Victor Mendizabal Coelho", "hasPage": false},
+        {"nome": "Viviane Santos da Silva", "hasPage": false}
     ],
     "hasPhotos": false,
     "hasMainPhoto": false,

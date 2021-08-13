@@ -1,14 +1,14 @@
 {
-    "nomes": [
-        "Bruno Daiki Yamada",
-        "Fabio Ocaña Vieira",
-        "Gustavo Vitral Arbex",
-        "Marcelo Rigotto Stachuk",
-        "Marco Lázaro de Souza Batista",
-        "Nelson Orsalino",
-        "Rafael Zuolo Coppini Lima",
-        "Sadi Kneipp Neto",
-        "Tibor Zequini Boglar"
+    "estudantes": [
+        {"nome": "Bruno Daiki Yamada", "hasPage": false},
+        {"nome": "Fabio Ocaña Vieira", "hasPage": false},
+        {"nome": "Gustavo Vitral Arbex", "hasPage": false},
+        {"nome": "Marcelo Rigotto Stachuk", "hasPage": false},
+        {"nome": "Marco Lázaro de Souza Batista", "hasPage": false},
+        {"nome": "Nelson Orsalino", "hasPage": false},
+        {"nome": "Rafael Zuolo Coppini Lima", "hasPage": false},
+        {"nome": "Sadi Kneipp Neto", "hasPage": false},
+        {"nome": "Tibor Zequini Boglar", "hasPage": false}
     ],
     "hasPhotos": false,
     "hasMainPhoto": false,

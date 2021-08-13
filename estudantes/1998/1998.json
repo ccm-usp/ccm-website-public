@@ -1,11 +1,11 @@
 {
-    "nomes": [
-        "Bruno L. Soares",
-        "Daniel S. Kerr",
-        "Fernanda Festa",
-        "Leonardo de O. Rodrigues",
-        "Marcos V. de A. S. Navarro",
-        "Tie Koide"
+    "estudantes": [
+        {"nome": "Bruno L. Soares", "hasPage": false},
+        {"nome": "Daniel S. Kerr", "hasPage": false},
+        {"nome": "Fernanda Festa", "hasPage": false},
+        {"nome": "Leonardo de O. Rodrigues", "hasPage": false},
+        {"nome": "Marcos V. de A. S. Navarro", "hasPage": false},
+        {"nome": "Tie Koide", "hasPage": false}
     ],
     "hasPhotos": false,
     "hasMainPhoto": false,

@@ -1,18 +1,18 @@
 {
-    "nomes": [
-        "Aurea Beatriz Martins",
-        "Daniel Faria Bernardes",
-        "Danilo Pereira Kerschbaum",
-        "Diogo Amaral R. Melo",
-        "Edgar Zanella Alvarenga",
-        "Gustavo Ribeiro Fernandes",
-        "Jonas Weissmann Gaiarsa",
-        "Leonardo Matheus Marion Jorge",
-        "Reinaldo Santos Lima",
-        "Sahba R. Rabbani",
-        "Sonia Liamara Martins",
-        "Tilana Batista da Silva",
-        "Xênia Guennadievna Gousseva"
+    "estudantes": [
+        {"nome": "Aurea Beatriz Martins", "hasPage": false},
+        {"nome": "Daniel Faria Bernardes", "hasPage": false},
+        {"nome": "Danilo Pereira Kerschbaum", "hasPage": false},
+        {"nome": "Diogo Amaral R. Melo", "hasPage": false},
+        {"nome": "Edgar Zanella Alvarenga", "hasPage": false},
+        {"nome": "Gustavo Ribeiro Fernandes", "hasPage": false},
+        {"nome": "Jonas Weissmann Gaiarsa", "hasPage": false},
+        {"nome": "Leonardo Matheus Marion Jorge", "hasPage": false},
+        {"nome": "Reinaldo Santos Lima", "hasPage": false},
+        {"nome": "Sahba R. Rabbani", "hasPage": false},
+        {"nome": "Sonia Liamara Martins", "hasPage": false},
+        {"nome": "Tilana Batista da Silva", "hasPage": false},
+        {"nome": "Xênia Guennadievna Gousseva", "hasPage": false}
     ],
     "hasPhotos": false,
     "hasMainPhoto": false,

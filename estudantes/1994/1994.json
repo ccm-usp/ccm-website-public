@@ -1,8 +1,8 @@
 {
-    "nomes": [
-        "Carla Vital Otero",
-        "Daniel Doro Ferrante",
-        "Flavio Cotrim Pinheiro"
+    "estudantes": [
+        {"nome": "Carla Vital Otero", "hasPage": false},
+        {"nome": "Daniel Doro Ferrante", "hasPage": false},
+        {"nome": "Flavio Cotrim Pinheiro", "hasPage": false}
     ],
     "hasPhotos": true,
     "hasMainPhoto": false,

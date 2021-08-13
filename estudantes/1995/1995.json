@@ -1,15 +1,15 @@
 {
-    "nomes": [
-        "Celina Monteiro da Cruz Lotufo",
-        "Fabio Armando Tal",
-        "Fabio Monaro Engelmann",
-        "Francisco Dellatorre Borges",
-        "Julio de Lima do Rego Monteiro",
-        "Karine Alves Bidart",
-        "Leandro de Oliveira Royer",
-        "Leonardo de Oliveira Martins",
-        "Tatiana Hochgreb",
-        "Yeung Luk Chong"
+    "estudantes": [
+        {"nome": "Celina Monteiro da Cruz Lotufo", "hasPage": false},
+        {"nome": "Fabio Armando Tal", "hasPage": false},
+        {"nome": "Fabio Monaro Engelmann", "hasPage": false},
+        {"nome": "Francisco Dellatorre Borges", "hasPage": false},
+        {"nome": "Julio de Lima do Rego Monteiro", "hasPage": false},
+        {"nome": "Karine Alves Bidart", "hasPage": false},
+        {"nome": "Leandro de Oliveira Royer", "hasPage": false},
+        {"nome": "Leonardo de Oliveira Martins", "hasPage": false},
+        {"nome": "Tatiana Hochgreb", "hasPage": false},
+        {"nome": "Yeung Luk Chong", "hasPage": false}
     ],
     "hasPhotos": false,
     "hasMainPhoto": false,

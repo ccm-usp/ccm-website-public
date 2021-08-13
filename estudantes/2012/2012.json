@@ -1,15 +1,15 @@
 {
-    "nomes": [
-        "Artur Machado Lacerda",
-        "Estêvão Uyra Pardillos Vieira",
-        "Felipe de Macêdo Ferreira",
-        "Gabriel Lamparelli Caticha",
-        "Lucas Silva Simões",
-        "Luiz Felipe Guain Teixeira",
-        "Paulo Roberto de Oliveira Castro",
-        "Renzo Comolatti",
-        "Rodrigo de Azeredo Orselli",
-        "Thiago Missfeldt Sanches"
+    "estudantes": [
+        {"nome": "Artur Machado Lacerda", "hasPage": false},
+        {"nome": "Estêvão Uyra Pardillos Vieira", "hasPage": false},
+        {"nome": "Felipe de Macêdo Ferreira", "hasPage": false},
+        {"nome": "Gabriel Lamparelli Caticha", "hasPage": false},
+        {"nome": "Lucas Silva Simões", "hasPage": false},
+        {"nome": "Luiz Felipe Guain Teixeira", "hasPage": false},
+        {"nome": "Paulo Roberto de Oliveira Castro", "hasPage": false},
+        {"nome": "Renzo Comolatti", "hasPage": false},
+        {"nome": "Rodrigo de Azeredo Orselli", "hasPage": false},
+        {"nome": "Thiago Missfeldt Sanches", "hasPage": false}
     ],
     "hasPhotos": false,
     "hasMainPhoto": false,

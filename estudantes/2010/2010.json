@@ -1,17 +1,17 @@
 {
-    "nomes": [
-        "Ana Cláudia Martins Ciconelle",
-        "Gabriel Cozzella",
-        "Giovanne Baroni Diniz",
-        "João Paulo Vasques Camargo da Silva",
-        "Luciano Menasce Rosset",
-        "Marina Magalhães da Cunha",
-        "Mateus Ferraz Dias",
-        "Mayara D'Auria Jacomassi",
-        "Pedro Henrique Moreira Pessoa",
-        "Pedro Henrique Rocha Bruel",
-        "Ricardo Passoni Bindi",
-        "Ulisses Lakatos de Mello"
+    "estudantes": [
+        {"nome": "Ana Cláudia Martins Ciconelle", "hasPage": false},
+        {"nome": "Gabriel Cozzella", "hasPage": false},
+        {"nome": "Giovanne Baroni Diniz", "hasPage": false},
+        {"nome": "João Paulo Vasques Camargo da Silva", "hasPage": false},
+        {"nome": "Luciano Menasce Rosset", "hasPage": false},
+        {"nome": "Marina Magalhães da Cunha", "hasPage": false},
+        {"nome": "Mateus Ferraz Dias", "hasPage": false},
+        {"nome": "Mayara D'Auria Jacomassi", "hasPage": false},
+        {"nome": "Pedro Henrique Moreira Pessoa", "hasPage": false},
+        {"nome": "Pedro Henrique Rocha Bruel", "hasPage": false},
+        {"nome": "Ricardo Passoni Bindi", "hasPage": false},
+        {"nome": "Ulisses Lakatos de Mello", "hasPage": false}
     ],
     "hasPhotos": false,
     "hasMainPhoto": false,
