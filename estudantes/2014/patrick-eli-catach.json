@@ -1,0 +1,32 @@
+{   
+    "nome": "Patrick Eli Catach",
+    "turma": "2014",
+    "especializacao": ["Relatividade Geral", "Teoria Quantica de Campos"],
+    "concentracao": ["Física"],
+    "origem": "Poli",
+    "conteudo": [
+      "Bacharel em ciências moleculares pela Universidade de São Paulo (formado em 2018), mestre em matemática aplicada e física teórica pela Universidade de Cambridge (2020). Atualmente, engenheiro de software trabalhando no Reino Unido."
+    ],
+    "avancado": ["Vacuum Awakening Effect and condensed matter analogs"],
+    "extracurricular": [
+        {
+            "title": "Administrador da Sala de Computação",
+            "link": ""
+        },
+        {
+            "title": "Comissão Avaliadora da FEBRACE",
+            "link": ""
+        }
+    ],
+    "conquistas": [],
+    "contact": {
+        "email": "email@gmail.com.br",
+        "lattes": "lattes",
+        "linkedin": "https://www.linkedin.com/in/pcatach/",
+        "github": "https://github.com/pcatach",
+        "site": "https://pcatach.github.io/",
+        "behance": "behance.com",
+        "telefone": "fone"
+    },
+    "hasPhoto": true
+}
