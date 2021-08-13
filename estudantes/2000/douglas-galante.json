@@ -1,14 +1,14 @@
 {   
     "nome": "Douglas Galante",
     "turma": "2000",
-    "especializacao": "Astrobiologia",
+    "especializacao": ["Astrobiologia"],
     "concentracao": ["Ciências da Vida", "Geociências"],
     "origem": "Física",
     "conteudo": [
         "Apaixonado pelo céu desde criança, Douglas Galante descobriu que a melhor maneira para ser um astronauta era se transformar num grande cientista. Hoje ele vasculha o solo marciano aqui mesmo, na Terra. E ainda lidera o grupo Carnaúba, que pesquisa no acelerador de partículas brasileiro Sirius.",
         "Bacharel em ciências moleculares pela Universidade de São Paulo, Douglas é doutor em astronomia no Instituto de Astronomia, Geofísica e Ciências Atmosféricas também da USP. Obteve o pós-doutorado no mesmo instituto. A investigação de Douglas Galante é um exercício de detecção da vida em lugares inóspitos, pesquisando organismos extremófilos. O gosto pelo extremo se converteu em uma paixão pelas alturas. A prática da escalada veio como uma consequência natural, mas ele não parou por aí. Douglas tem brevê de piloto e já fez até curso de paraquedismo."
     ],
-    "avancado": "Ambiente marciano testado a partir de ambientes terrestres análogos e simulações experimentais",
+    "avancado": ["Ambiente marciano testado a partir de ambientes terrestres análogos e simulações experimentais"],
     "extracurricular": [
         {
             "title": "Cordenação dos CMnários",
