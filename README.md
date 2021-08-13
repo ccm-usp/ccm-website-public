@@ -39,6 +39,14 @@ Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Lin
 
 ### Páginas Pessoais
 
+**Imagem da Página Pessoal:** São dois arquivos `.jpg`, seguindo as seguintes regras:
+| Nome  | Resolução | Tamanho Máximo |
+| -------------  | ------------- | ------------- |
+| `nome-sem-espacos.jpg` | 272 × 272 pixels | 100kb |
+| `nome-sem-espacos@2x.jpg` | 544 × 544 pixels  | 200kb |
+
+Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Linux | OS X | Microsoft Windows) ou o [PhotoPea ](https://www.photopea.com/) (Online) para garantir o tamanho e resolução.
+
 **Dados da Página Pessoal:**  Um `.json` nomeado pelo nome do estudante, onde os espacos sao substituidos por "-" com os seguintes objetos:
 `nome` - _string_
 `turma` - _string_
