@@ -2,7 +2,7 @@
     "estudantes": [
         {"nome": "Carolina Fraga Leslie", "hasPage": false},
         {"nome": "Claudinei Eduardo Biazoli Júnior", "hasPage": false},
-        {"nome": "Douglas Galante", "hasPage": false},
+        {"nome": "Douglas Galante", "hasPage": true},
         {"nome": "Guilherme Amadio", "hasPage": false},
         {"nome": "Gustavo Troiano Feliciano", "hasPage": false}
     ],
