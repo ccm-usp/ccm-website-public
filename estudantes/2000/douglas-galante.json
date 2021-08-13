@@ -20,14 +20,14 @@
         }
     ],
     "conquistas": ["Primeira tesee em astrobiologia no país em 2009"],
-    "contact": {
-        "email": "email@gmail.com.br",
-        "lattes": "lattes",
-        "linkedin": "linked",
-        "github": "git",
-        "site": "site.com",
-        "behance": "behance.com",
-        "telefone": "fone"
-    },
-    "hasPhoto": true
+    "contact": [
+        {"email": "email@gmail.com.br"},
+        {"lattes": "lattes"},
+        {"linkedin": "linked"},
+        {"github": "git"},
+        {"site": "site.com"},
+        {"behance": "behance.com"},
+        {"telefone": "fone"}
+    ],
+    "hasPhoto": false
 }
