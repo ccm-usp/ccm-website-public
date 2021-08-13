@@ -16,13 +16,9 @@
     ],
     "conquistas": [],
     "contact": {
-        "email": "email@gmail.com.br",
-        "lattes": "lattes",
         "linkedin": "https://www.linkedin.com/in/pcatach/",
         "github": "https://github.com/pcatach",
-        "site": "https://pcatach.github.io/",
-        "behance": "behance.com",
-        "telefone": "fone"
+        "site": "https://pcatach.github.io/"
     },
     "hasPhoto": true
 }
