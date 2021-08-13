@@ -1,0 +1,21 @@
+{   
+    "nome": "Douglas Galante",
+    "turma": "2000",
+    "especializacao": "Astrobiologia",
+    "concentracao": ["Ciências da Vida", "Geociências"],
+    "curso": "Física",
+    "avancado": "Ambiente marciano testado a partir de ambientes terrestres análogos e simulações experimentais",
+    "extracurricular": [
+        "Cordenação dos CMnários",
+        "Comissão Avaliadora da FEBRACE"
+    ],
+    "conquistas": ["Primeira tesee em astrobiologia no país em 2009"],
+    "email": "email",
+    "provedor": "gmail.com.br",
+    "lattes": "lattes",
+    "linkedin": "linke",
+    "github": "",
+    "site": "",
+    "behance": "",
+    "hasPhoto": false
+}
