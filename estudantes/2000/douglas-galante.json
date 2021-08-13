@@ -7,8 +7,14 @@
     "conteudo": ["Paragrafo 1", "Paragrafo 2"],
     "avancado": "Ambiente marciano testado a partir de ambientes terrestres análogos e simulações experimentais",
     "extracurricular": [
-        "Cordenação dos CMnários",
-        "Comissão Avaliadora da FEBRACE"
+        {
+            "title": "Cordenação dos CMnários",
+            "link": "google.com"
+        },
+        {
+            "title": "Comissão Avaliadora da FEBRACE",
+            "link": "google.com"
+        }
     ],
     "conquistas": ["Primeira tesee em astrobiologia no país em 2009"],
     "email": "email@gmail.com.br",
