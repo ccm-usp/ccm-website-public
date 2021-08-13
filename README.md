@@ -48,7 +48,7 @@ Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Lin
 | Nome  | Resolução | Tamanho Máximo |
 | -------------  | ------------- | ------------- |
 | `nome-sem-espacos.jpg` | 272 × 272 pixels | 100kb |
-| `nome-sem-espacos@2x.jpg` | 544 × 544 pixels  | 200kb |
+| `nome-sem-espacos@2x.jpg` | 544 × 544 pixels  | 100kb |
 
 Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Linux | OS X | Microsoft Windows) ou o [PhotoPea ](https://www.photopea.com/) (Online) para garantir o tamanho e resolução.
 
