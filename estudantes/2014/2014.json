@@ -7,12 +7,12 @@
         {"nome": "Lucas Magno Dantas Ramos", "hasPage": false},
         {"nome": "Luiz Eduardo Poublan de Matos", "hasPage": false},
         {"nome": "Natália Fagundes Borges Teruel", "hasPage": false},
-        {"nome": "Patrick Eli Catach", "hasPage": false},
+        {"nome": "Patrick Eli Catach", "hasPage": true},
         {"nome": "Ramon Vilarino dos Santos", "hasPage": false},
         {"nome": "Thiago Tarraf Varella", "hasPage": false},
         {"nome": "Vitor Heidrich", "hasPage": false}
     ],
     "hasPhotos": false,
-    "hasMainPhoto": false,
+    "hasMainPhoto": true,
     "institutos": false
 }
