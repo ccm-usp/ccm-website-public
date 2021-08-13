@@ -29,12 +29,17 @@ As datas do processo seletivo são governadas por `datas_selecao.json`. O websit
 Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Linux | OS X | Microsoft Windows) ou o [PhotoPea ](https://www.photopea.com/) (Online) para garantir o tamanho e resolução.
  
 **Lista de Estudantes:** Um `.json` nomeado pelo ano de ingresso da turma com os seguintes objetos:
+
 `estudantes` - _array of objects_
-> `nome` - _string_ 
+
+> `nome` - _string_
+> 
 > `hasPage` - _bool_
 
 `hasPhotos` - _bool_
+
 `hasMainPhoto` - _bool_
+
 `institutos` - _bool_
 
 ### Páginas Pessoais
@@ -48,25 +53,43 @@ Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Lin
 Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Linux | OS X | Microsoft Windows) ou o [PhotoPea ](https://www.photopea.com/) (Online) para garantir o tamanho e resolução.
 
 **Dados da Página Pessoal:**  Um `.json` nomeado pelo nome do estudante, onde os espacos sao substituidos por "-" com os seguintes objetos:
+
 `nome` - _string_
+
 `turma` - _string_
+
 `especializacao` - _array of strings_
+
 `concentracao` - _array of strings_
+
 `origem` - _string_
+
 `conteudo` - _array of strings_
+
 `avancado` - _array of strings_
+
 `extracurricular` - _array of objects_
+
 > `title` - _string_ 
+> 
 > `link` - _string_ 
 
 `avancado` - _array of strings_
+
 `extracurricular` - _object_
+
 > `email` - _string_ 
+> 
 > `lattes` - _string_ 
+> 
 > `linkedin` - _string_ 
+> 
 > `github` - _string_ 
+> 
 > `site` - _string_ 
+> 
 > `behance` - _string_ 
+> 
 > `telefone` - _string_ 
 
 `hasPhoto` - _bool_
