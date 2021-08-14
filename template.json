@@ -1,0 +1,33 @@
+{   
+    "nome": "",
+    "turma": "",
+    "especializacao": [""],
+    "concentracao": [""],
+    "origem": "",
+    "conteudo": [
+        "",
+        ""
+    ],
+    "avancado": [""],
+    "extracurricular": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ],
+    "conquistas": [""],
+    "contact": {
+        "email": "",
+        "lattes": "",
+        "linkedin": "",
+        "github": "",
+        "site": "",
+        "behance": "",
+        "telefone": ""
+    },
+    "hasPhoto": false
+}
