@@ -14,7 +14,9 @@ Os dados neste repositório devem ser incluídos em um formato pré-definido par
 
 ### Datas do Processo Seletivo
 As datas do processo seletivo são governadas por `datas_selecao.json`. O website atualiza seu conteúdo dinâmicamente de acordo com as datas registradas neste arquivo.
+
 `date_active` _data em que o estado será ativado no website_
+
 `date_content` _data da fase do processo em questão para ser utilizada na redação do site_
 
 ### Páginas das Turmas
