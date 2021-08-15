@@ -52,7 +52,7 @@ Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Lin
 
 Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Linux | OS X | Microsoft Windows) ou o [PhotoPea ](https://www.photopea.com/) (Online) para garantir o tamanho e resolução.
 
-**Dados da Página Pessoal:**  Um `.json` nomeado pelo nome do estudante, onde os espacos sao substituidos por "-" (`seu-nome-sem-espaco.json`) com os seguintes objetos:
+**Dados da Página Pessoal:**  Um `.json` nomeado pelo nome do estudante, onde os espacos sao substituidos por "-" (`nome-sem-espaco.json`) com os seguintes objetos:
 
 `nome` - _string_
 
@@ -94,4 +94,6 @@ Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Lin
 
 `hasPhoto` - _bool_
 
-**PDFs do Avançado:** Devem ser incluídos em formato .pdf, com nome seguindo a regra `seu-nome-sem-espaco-0.pdf`. O número no final do arquivo indica a ordem dos arquivos que serão associados à lista de projetos do avançado que você forneceu no `.json`acima. 
+**PDFs do Avançado:** Devem ser incluídos em formato .pdf, com nome seguindo a regra `nome-sem-espaco-0.pdf`. O número no final do arquivo indica a ordem dos arquivos que serão associados à lista de projetos do avançado que você forneceu no `.json`acima.
+
+**Importante:** Seu nome em seus arquivos pessoais deve ser o mesmo especificado na lista `.json` de estudantes da sua turma, porém, todo minúsculo e com espaços substitutidos por `-`.
