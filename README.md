@@ -93,3 +93,5 @@ Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Lin
 > `telefone` - _string_ 
 
 `hasPhoto` - _bool_
+
+**PDFs do Avançado:** Devem ser incluídos em formato .pdf, com nome seguindo a regra `seu-nome-sem-espaco-0.pdf`. O número no final do arquivo indica a ordem dos arquivos que serão associadas à lista de projetos do avançado que você forneceu no `.json`acima. 
