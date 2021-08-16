@@ -1,7 +1,7 @@
-# Dados públicos para [cecm.usp.br](cecm.usp.br)
+# Dados públicos para [cecm.usp.br](http://www.cecm.usp.br)
 
 ## Propósito
-Entregar dados dinâmicos para [cecm.usp.br](cecm.usp.br) utilizando GitHub CDN Pages.
+Entregar dados dinâmicos para [cecm.usp.br](http://www.cecm.usp.br) utilizando GitHub CDN Pages.
 
 ## Acesso
 Todos estudantes do Curso de Ciências Moleculares estão convidados a contribuir com as informações alimentadas por este repositório, que é moderado por estudantes atuais voluntários para garantir a qualidade dos dados e imagens.
@@ -10,7 +10,7 @@ Todos estudantes do Curso de Ciências Moleculares estão convidados a contribui
 Basta criar seu próprio fork do repositório, incluir seus dados e efetuar um [Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
 
 ## Especificações dos Dados
-Os dados neste repositório devem ser incluídos em um formato pré-definido para que sejam corretamente exibidos em [cecm.usp.br](cecm.usp.br). Pull Requests só serão aceitos se seguirem _todas_ as especificações abaixo.
+Os dados neste repositório devem ser incluídos em um formato pré-definido para que sejam corretamente exibidos em [cecm.usp.br](http://www.cecm.usp.br). Pull Requests só serão aceitos se seguirem _todas_ as especificações abaixo.
 
 ### Datas do Processo Seletivo
 As datas do processo seletivo são governadas por `datas_selecao.json`. O website atualiza seu conteúdo dinâmicamente de acordo com as datas registradas neste arquivo.
