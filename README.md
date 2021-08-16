@@ -4,7 +4,7 @@
 Entregar dados dinâmicos para [cecm.usp.br](http://www.cecm.usp.br) utilizando GitHub CDN Pages.
 
 ## Acesso
-Todos estudantes do Curso de Ciências Moleculares estão convidados a contribuir com as informações alimentadas por este repositório, que é moderado por estudantes atuais voluntários para garantir a qualidade dos dados e imagens.
+Todos estudantes do Curso de Ciências Moleculares estão convidados a contribuir com as informações deste repositório, que é moderado por estudantes voluntários para garantir a qualidade dos dados e imagens.
 
 ## Como contribuir?
 Basta criar seu próprio fork do repositório, incluir seus dados e efetuar um [Pull Request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
