@@ -78,7 +78,7 @@ Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Lin
 
 `avancado` - _array of strings_
 
-`extracurricular` - _object_
+`contato` - _object_
 
 > `email` - _string_ 
 > 
