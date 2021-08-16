@@ -1,1 +1,65 @@
-<h1>Hello World</h1>
+<h1 id="dados-p-blicos-para-cecm-usp-br-http-www-cecm-usp-br-">Dados públicos para <a href="http://www.cecm.usp.br">cecm.usp.br</a></h1>
+<h2 id="prop-sito">Propósito</h2>
+<p>Entregar dados dinâmicos para <a href="http://www.cecm.usp.br">cecm.usp.br</a> utilizando GitHub CDN Pages.</p>
+<h2 id="acesso">Acesso</h2>
+<p>Todos estudantes do Curso de Ciências Moleculares estão convidados a contribuir com as informações deste repositório, que é moderado por estudantes voluntários para garantir a qualidade dos dados e imagens.</p>
+<h2 id="como-contribuir-">Como contribuir?</h2>
+<p>Basta criar seu próprio fork do repositório, incluir seus dados e efetuar um <a href="https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork">Pull Request</a></p>
+<h2 id="especifica-es-dos-dados">Especificações dos Dados</h2>
+<p>Os dados neste repositório devem ser incluídos em um formato pré-definido para que sejam corretamente exibidos em <a href="http://www.cecm.usp.br">cecm.usp.br</a>. Pull Requests só serão aceitos se seguirem <em>todas</em> as especificações abaixo.</p>
+<h3 id="datas-do-processo-seletivo">Datas do Processo Seletivo</h3>
+<p>As datas do processo seletivo são governadas por <code>datas_selecao.json</code>. O website atualiza seu conteúdo dinâmicamente de acordo com as datas registradas neste arquivo.</p>
+<p><code>date_active</code> <em>data em que o estado será ativado no website</em></p>
+<p><code>date_content</code> <em>data da fase do processo em questão para ser utilizada na redação do site</em></p>
+<h3 id="p-ginas-das-turmas">Páginas das Turmas</h3>
+<p><strong>Turma Ingressante:</strong> Os dados da turma ingressante devem ser incluídos somente após o fim da exibição da página de aprovados, que é removida após 1 mês da última <code>date_active</code> em <code>datas_selecao.json</code></p>
+<p><strong>Imagem Principal:</strong> São dois arquivos <code>.jpg</code>, seguindo as seguintes regras:
+| Nome  | Resolução | Tamanho Máximo |
+| -------------  | ------------- | ------------- |
+| <code>XXXX.jpg</code> | 876 × 300 pixels | 100kb |
+| <code>XXXX@2x.jpg</code> | 1751 × 600 pixels  | 360kb |</p>
+<p>Você pode usar ferramentas gratuitas como o <a href="https://www.gimp.org/">Gimp </a> (Linux | OS X | Windows) ou o <a href="https://www.photopea.com/">PhotoPea </a> (Online) para garantir o tamanho e resolução.</p>
+<p><strong>Lista de Estudantes:</strong> Um <code>.json</code> nomeado pelo ano de ingresso da turma com os seguintes objetos:</p>
+<p><code>estudantes</code> - <em>array of objects</em></p>
+<blockquote>
+<p><code>nome</code> - <em>string</em></p>
+<p><code>hasPage</code> - <em>bool</em></p>
+</blockquote>
+<p><code>hasPhotos</code> - <em>bool</em></p>
+<p><code>hasMainPhoto</code> - <em>bool</em></p>
+<p><code>institutos</code> - <em>bool</em></p>
+<h3 id="p-ginas-pessoais">Páginas Pessoais</h3>
+<p><strong>Imagem da Página Pessoal:</strong> São dois arquivos <code>.jpg</code>, seguindo as seguintes regras:
+| Nome  | Resolução | Tamanho Máximo |
+| -------------  | ------------- | ------------- |
+| <code>nome-sem-espacos.jpg</code> | 272 × 272 pixels | 50kb |
+| <code>nome-sem-espacos@2x.jpg</code> | 544 × 544 pixels  | 100kb |</p>
+<p>Você pode usar ferramentas gratuitas como o <a href="https://www.gimp.org/">Gimp </a> (Linux | OS X | Windows) ou o <a href="https://www.photopea.com/">PhotoPea </a> (Online) para garantir o tamanho e resolução.</p>
+<p><strong>Dados da Página Pessoal:</strong>  Um <code>.json</code> nomeado pelo nome do estudante, onde os espacos sao substituidos por &quot;-&quot; (<code>nome-sem-espaco.json</code>) com os seguintes objetos:</p>
+<p><code>nome</code> - <em>string</em></p>
+<p><code>turma</code> - <em>string</em></p>
+<p><code>especializacao</code> - <em>array of strings</em></p>
+<p><code>concentracao</code> - <em>array of strings</em></p>
+<p><code>origem</code> - <em>string</em></p>
+<p><code>conteudo</code> - <em>array of strings</em></p>
+<p><code>avancado</code> - <em>array of strings</em></p>
+<p><code>extracurricular</code> - <em>array of objects</em></p>
+<blockquote>
+<p><code>title</code> - <em>string</em> </p>
+<p><code>link</code> - <em>string</em> </p>
+</blockquote>
+<p><code>avancado</code> - <em>array of strings</em></p>
+<p><code>contato</code> - <em>object</em></p>
+<blockquote>
+<p><code>email</code> - <em>string</em> </p>
+<p><code>lattes</code> - <em>string</em> </p>
+<p><code>linkedin</code> - <em>string</em> </p>
+<p><code>github</code> - <em>string</em> </p>
+<p><code>site</code> - <em>string</em> </p>
+<p><code>behance</code> - <em>string</em> </p>
+<p><code>telefone</code> - <em>string</em> </p>
+</blockquote>
+<p><code>hasPhoto</code> - <em>bool</em></p>
+<p><em>Nota:</em> Você pode deixar qualquer campo em branco, exceto pelo seu nome e turma. O site irá dinamicamente adaptar o design da página de acordo com as informações que você fornecer.</p>
+<p><strong>PDFs do Avançado:</strong> Devem ser incluídos em formato .pdf, com nome seguindo a regra <code>nome-sem-espaco-0.pdf</code>. O número no final do arquivo indica a ordem dos arquivos que serão associados à lista de projetos do avançado que você forneceu no <code>.json</code>acima.</p>
+<p><strong>Importante:</strong> Seu nome em seus arquivos pessoais deve ser o mesmo especificado na lista <code>.json</code> de estudantes da sua turma, porém, todo minúsculo e com espaços substitutidos por <code>-</code>.</p>
