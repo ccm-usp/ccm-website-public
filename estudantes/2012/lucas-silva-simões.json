@@ -1,0 +1,23 @@
+{   
+    "nome": "Lucas Silva Simões",
+    "turma": "2012",
+    "especializacao": ["Mecânica Estatística", "Probabilidade e Teoria da Informção", "Sociofísica"],
+    "concentracao": ["Física"],
+    "origem": "Instituto de Física",
+    "conteudo": [
+      "Bacharel em Ciências Moleculares (2016) e mestre em Física (2018), ambos pela Universidade de São Paulo. Atualmente, estudante de doutorado em Neurociência Computational na University College London."
+    ],
+    "avancado": ["Propriedades Coletivas Emergentes em Sistemas Sociais"],
+    "extracurricular": [
+        {
+            "title": "Administrador da Sala de Computação",
+            "link": ""
+        }
+    ],
+    "conquistas": [],
+    "contact": {
+        "linkedin": "https://www.linkedin.com/in/lssimoes/",
+        "github": "https://github.com/lssimoes",
+    },
+    "hasPhoto": false
+}
