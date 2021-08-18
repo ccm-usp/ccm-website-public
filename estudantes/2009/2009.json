@@ -1,7 +1,7 @@
 {
     "estudantes": [
-        {"nome": "Danilo Furlan Kaid", "hasPage": false},
-        {"nome": "Francisco Quevedo Camargo", "hasPage": false},
+        {"nome": "Danilo Furlan Kaid", "hasPage": true},
+        {"nome": "Francisco Quevedo Camargo", "hasPage": true},
         {"nome": "Giulia Satiko Maesaka", "hasPage": false},
         {"nome": "Leonardo Nagami Coregliano", "hasPage": false},
         {"nome": "Victor Mendizabal Coelho", "hasPage": false},
