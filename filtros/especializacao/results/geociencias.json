@@ -1,10 +1,12 @@
 {
-    "2015": [
-        {"nome": "Augusto Sousa Bernardi", "hasPage": false},
-        {"nome": "Breno Mariano de Sousa", "hasPage": false}
-    ],
-    "2009": [
-        {"nome": "Jun Igor Valente Inenami ", "hasPage": false},
-        {"nome": "Luana dos Santos Neres", "hasPage": false}
+    "results": [
+        {"2015": [
+            {"nome": "Augusto Sousa Bernardi", "hasPage": false},
+            {"nome": "Breno Mariano de Sousa", "hasPage": false}
+        ]},
+        {"2009": [
+            {"nome": "Jun Igor Valente Inenami ", "hasPage": false},
+            {"nome": "Luana dos Santos Neres", "hasPage": false}
+        ]}
     ]
 }
