@@ -24,45 +24,28 @@ Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Lin
 
 **Dados da Página Pessoal:**  Um `.json` nomeado pelo nome do estudante, onde os espacos sao substituidos por "-" (`nome-sem-espaco.json`) e sem acentos com os seguintes objetos:
 
-`nome` - _string_
-
-`turma` - _string_ (ANO)
-
-`especializacao` - _array of strings_
-
-`concentracao` - _array of strings_ (deve seguir [areas-concentracao.md](/areas-concentracao.md))
-
-`origem` - _string_ (CURSO)
-
-`conteudo` - _array of strings_
-
-`avancado` - _array of strings_
-
-`extracurricular` - _array of objects_
-
-> `title` - _string_ 
-> 
-> `link` - _string_ 
-
-`avancado` - _array of strings_
-
-`contato` - _object_
-
-> `email` - _string_ 
-> 
-> `lattes` - _string_ 
-> 
-> `linkedin` - _string_ 
-> 
-> `github` - _string_ 
-> 
-> `site` - _string_ 
-> 
-> `behance` - _string_ 
-> 
-> `telefone` - _string_ 
-
-`hasPhoto` - _bool_
+```
+nome - string
+turma - string (ANO)
+especializacao - array of strings
+concentracao - array of strings (deve seguir [areas-concentracao.md](/areas-concentracao.md))
+origem - string (CURSO)
+conteudo - array of strings
+avancado - array of strings
+extracurricular - array of objects
+    title - string
+    link - string
+avancado - array of strings
+contato - object
+    email - string
+    lattes - string
+    linkedin - string
+    github - string
+    site - string
+    behance - string
+    telefone - string
+hasPhoto - bool
+```
 
 *Nota:* Você pode deixar qualquer campo em branco, exceto pelo seu nome e turma. O site irá dinamicamente adaptar o design da página de acordo com as informações que você fornecer.
 
