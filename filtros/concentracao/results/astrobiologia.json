@@ -1,10 +1,12 @@
 {
-    "2021": [
-        {"nome": "Augusto Mariano Bernardi", "hasPage": false},
-        {"nome": "Breno Pereira de Sousa", "hasPage": false}
-    ],
-    "2013": [
-        {"nome": "Jun Igor Valente Inenami ", "hasPage": false},
-        {"nome": "Luana dos Santos Neres", "hasPage": false}
+    "results": [
+        {"2025": [
+            {"nome": "Augusto Mariano", "hasPage": false},
+            {"nome": "Breno Bernardi de Sousa", "hasPage": false}
+        ]},
+        {"2019": [
+            {"nome": "Jun Santos Valente Inenami", "hasPage": false},
+            {"nome": "Luana Igor Neres", "hasPage": false}
+        ]}
     ]
 }
