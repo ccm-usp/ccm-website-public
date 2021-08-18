@@ -11,6 +11,12 @@
             "nomes": [
                 {"nome": "Lucas Silva Simões", "hasPage": true}
             ]
+        },
+        {
+            "turma": "2010",
+            "nomes": [
+                {"nome": "Gabriel Cozzella", "hasPage": true}
+            ]
         }
     ]
 }
