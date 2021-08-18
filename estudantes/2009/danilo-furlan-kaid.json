@@ -1,0 +1,33 @@
+{   
+    "nome": "Danilo Furlan Kaid",
+    "turma": "2009",
+    "especializacao": [""],
+    "concentracao": [""],
+    "origem": "",
+    "conteudo": [
+        "",
+        ""
+    ],
+    "avancado": ["Variabilidade nas propriedades viscoelásticas de artéria entre indivíduos de grupos raciais distintos"],
+    "extracurricular": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ],
+    "conquistas": [""],
+    "contact": {
+        "email": "",
+        "lattes": "",
+        "linkedin": "",
+        "github": "",
+        "site": "",
+        "behance": "",
+        "telefone": ""
+    },
+    "hasPhoto": false
+}
