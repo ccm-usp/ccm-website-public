@@ -1,6 +1,6 @@
 {
     "estudantes": [
-        {"nome": "Alan Barzilay", "hasPage": false},
+        {"nome": "Alan Barzilay", "hasPage": true},
         {"nome": "Cássio Kengi Hayashida Hernandes", "hasPage": false},
         {"nome": "Gabriel Tiago Galdino", "hasPage": false},
         {"nome": "Gabriela Satie Sato Polito", "hasPage": false},
