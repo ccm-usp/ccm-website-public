@@ -88,6 +88,7 @@ Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Lin
  
 **Lista de Estudantes:** Um `.json` nomeado pelo ano de ingresso da turma com os seguintes objetos:
 
+```
 `estudantes` - _array of objects_
 
 > `nome` - _string_
@@ -99,6 +100,7 @@ Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Lin
 `hasMainPhoto` - _bool_
 
 `institutos` - _bool_
+```
 
 ### Datas do Processo Seletivo
 As datas do processo seletivo são governadas por `datas_selecao.json`. O website atualiza seu conteúdo dinâmicamente de acordo com as datas registradas neste arquivo.
