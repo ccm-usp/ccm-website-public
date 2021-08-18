@@ -12,38 +12,6 @@ Basta criar seu próprio fork do repositório, incluir seus dados e efetuar um [
 ## Especificações dos Dados
 Os dados neste repositório devem ser incluídos em um formato pré-definido para que sejam corretamente exibidos em [cecm.usp.br](http://www.cecm.usp.br). Pull Requests só serão aceitos se seguirem _todas_ as especificações abaixo.
 
-### Datas do Processo Seletivo
-As datas do processo seletivo são governadas por `datas_selecao.json`. O website atualiza seu conteúdo dinâmicamente de acordo com as datas registradas neste arquivo.
-
-`date_active` _data em que o estado será ativado no website_
-
-`date_content` _data da fase do processo em questão para ser utilizada na redação do site_
-
-### Páginas das Turmas
-**Turma Ingressante:** Os dados da turma ingressante devem ser incluídos somente após o fim da exibição da página de aprovados, que é removida após 1 mês da última `date_active` em `datas_selecao.json`
-
-**Imagem Principal:** São dois arquivos `.jpg`, seguindo as seguintes regras:
-| Nome  | Resolução | Tamanho Máximo |
-| -------------  | ------------- | ------------- |
-| `XXXX.jpg` | 876 × 300 pixels | 100kb |
-| `XXXX@2x.jpg` | 1751 × 600 pixels  | 360kb |
-
-Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Linux | OS X | Windows) ou o [PhotoPea ](https://www.photopea.com/) (Online) para garantir o tamanho e resolução.
- 
-**Lista de Estudantes:** Um `.json` nomeado pelo ano de ingresso da turma com os seguintes objetos:
-
-`estudantes` - _array of objects_
-
-> `nome` - _string_
-> 
-> `hasPage` - _bool_
-
-`hasPhotos` - _bool_
-
-`hasMainPhoto` - _bool_
-
-`institutos` - _bool_
-
 ### Páginas Pessoais
 
 **Imagem da Página Pessoal:** São dois arquivos `.jpg`, seguindo as seguintes regras:
@@ -101,3 +69,35 @@ Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Lin
 **PDFs do Avançado:** Devem ser incluídos em formato .pdf, com nome seguindo a regra `nome-sem-espaco-0.pdf`. O número no final do arquivo indica a ordem dos arquivos que serão associados à lista de projetos do avançado que você forneceu no `.json`acima.
 
 **Importante:** Seu nome em seus arquivos pessoais deve ser o mesmo especificado na lista `.json` de estudantes da sua turma, porém, todo minúsculo e com espaços substitutidos por `-`.
+
+### Páginas das Turmas
+**Turma Ingressante:** Os dados da turma ingressante devem ser incluídos somente após o fim da exibição da página de aprovados, que é removida após 1 mês da última `date_active` em `datas_selecao.json`
+
+**Imagem Principal:** São dois arquivos `.jpg`, seguindo as seguintes regras:
+| Nome  | Resolução | Tamanho Máximo |
+| -------------  | ------------- | ------------- |
+| `XXXX.jpg` | 876 × 300 pixels | 100kb |
+| `XXXX@2x.jpg` | 1751 × 600 pixels  | 360kb |
+
+Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Linux | OS X | Windows) ou o [PhotoPea ](https://www.photopea.com/) (Online) para garantir o tamanho e resolução.
+ 
+**Lista de Estudantes:** Um `.json` nomeado pelo ano de ingresso da turma com os seguintes objetos:
+
+`estudantes` - _array of objects_
+
+> `nome` - _string_
+> 
+> `hasPage` - _bool_
+
+`hasPhotos` - _bool_
+
+`hasMainPhoto` - _bool_
+
+`institutos` - _bool_
+
+### Datas do Processo Seletivo
+As datas do processo seletivo são governadas por `datas_selecao.json`. O website atualiza seu conteúdo dinâmicamente de acordo com as datas registradas neste arquivo.
+
+`date_active` _data em que o estado será ativado no website_
+
+`date_content` _data da fase do processo em questão para ser utilizada na redação do site_
