@@ -70,6 +70,16 @@ Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Lin
 
 **Importante:** Seu nome em seus arquivos pessoais deve ser o mesmo especificado na lista `.json` de estudantes da sua turma, porém, todo minúsculo e com espaços substitutidos por `-`.
 
+### Filtros
+Se você deseja ser incluído nas buscar por Área de Concentração e/ou Área de Especialização, você deve adicionar seu nome na área correspondente em `./filtros/especializacao/results` ou `./filtros/concentracao/results`.
+
+Caso sua área não exista ainda, basta criar um arquivo `nome-sem-espaco-e-acento.json`, incluir seu nome. Em seguida, adicione o nome da área no arquivo `especializacao.json` ou ` concentracao.json` (em ordem alfabética).
+
+`date_active` _data em que o estado será ativado no website_
+
+`date_content` _data da fase do processo em questão para ser utilizada na redação do site_
+
+
 ### Páginas das Turmas
 **Turma Ingressante:** Os dados da turma ingressante devem ser incluídos somente após o fim da exibição da página de aprovados, que é removida após 1 mês da última `date_active` em `datas_selecao.json`
 
