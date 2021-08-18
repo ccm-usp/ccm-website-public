@@ -2,7 +2,7 @@
     "estudantes": [
         {"nome": "Ademar Marques Lacerda Filho", "hasPage": false},
         {"nome": "Amanda da Silva El-Bachá", "hasPage": false},
-        {"nome": "Carlos Eduardo Oliveira Vido", "hasPage": false},
+        {"nome": "Carlos Eduardo Oliveira Vido", "hasPage": true},
         {"nome": "Cibele Gonçalves de Luccas", "hasPage": false},
         {"nome": "Elisa Barison Gragnani", "hasPage": false},
         {"nome": "Fernando Moral Mayoral", "hasPage": false},
