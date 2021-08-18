@@ -22,7 +22,7 @@ Os dados neste repositório devem ser incluídos em um formato pré-definido par
 
 Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Linux | OS X | Windows) ou o [PhotoPea ](https://www.photopea.com/) (Online) para garantir o tamanho e resolução.
 
-**Dados da Página Pessoal:**  Um `.json` (use o `template.json`) nomeado pelo nome do estudante, onde os espacos sao substituidos por "-" (`nome-sem-espaco.json`) e sem acentos com os seguintes objetos:
+**Dados da Página Pessoal:**  Um `.json` nomeado pelo nome do estudante, onde os espacos sao substituidos por "-" (`nome-sem-espaco.json`) e sem acentos com os seguintes objetos:
 ```
 nome - string
 turma - string (ANO)
