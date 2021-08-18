@@ -1,0 +1,23 @@
+{   
+    "nome": "Heloisa de Lazari Bento",
+    "turma": "2019",
+    "especializacao": ["Bioinformática"],
+    "concentracao": ["Ciência da Computação", "Ciências Biológicas"],
+    "origem": "Física",
+    "conteudo": [
+        "Após entrar no curso de Licenciatura de Física em 2019, sentiu falta dos desafios que poderiam vir durante o período de aprendizado e a limitação de opções em seu futuro. A entrada no curso de Ciências Moleculares abriu muitas portas dando a oportunidade de se interessar por áreas que nunca haviam sido consideradas.",
+        "Durante o cíclo avançado, o projeto Machine Learning para a Identificação de Doenças Inflamatórias de Pele está sendo desenvolvido em conjunto com o Professor Helder T. I. Nakaya juntando duas áreas de interesse: a ciência da computação e da saúde."
+    ],
+    "avancado": ["Machine Learning para a Identificação de Doenças Inflamatórias de Pele"],
+    "extracurricular": [
+        {
+            "title": "Comissão Avaliadora da FEBRACE",
+            "link": ""
+        }
+    ],
+    "contact": {
+        "lattes": "http://lattes.cnpq.br/1817018514171726",
+        "github": "https://github.com/Hello-Helo"
+    },
+    "hasPhoto": true
+}
