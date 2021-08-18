@@ -1,7 +1,7 @@
 {   
     "nome": "Danilo Furlan Kaid",
     "turma": "2009",
-    "especializacao": [""],
+    "especializacao": [],
     "concentracao": ["Ciências Biológicas", "Sociologia"],
     "origem": "",
     "conteudo": [
@@ -19,6 +19,5 @@
             "link": ""
         }
     ],
-    "conquistas": [""],
     "hasPhoto": false
 }
