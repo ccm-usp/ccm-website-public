@@ -1,7 +1,7 @@
 {
     "estudantes": [
         {"nome": "Ana Cláudia Martins Ciconelle", "hasPage": false},
-        {"nome": "Gabriel Cozzella", "hasPage": false},
+        {"nome": "Gabriel Cozzella", "hasPage": true},
         {"nome": "Giovanne Baroni Diniz", "hasPage": false},
         {"nome": "João Paulo Vasques Camargo da Silva", "hasPage": false},
         {"nome": "Luciano Menasce Rosset", "hasPage": false},
