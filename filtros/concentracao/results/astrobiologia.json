@@ -1,10 +1,10 @@
 {
     "2021": [
-        "Douglas Galante",
-        "João Amarilo"
+        {"nome": "Augusto Mariano Bernardi", "hasPage": false},
+        {"nome": "Breno Pereira de Sousa", "hasPage": false}
     ],
     "2013": [
-        "João Amarilo",
-        "Douglas Galante"
+        {"nome": "Jun Igor Valente Inenami ", "hasPage": false},
+        {"nome": "Luana dos Santos Neres", "hasPage": false}
     ]
 }
