@@ -30,7 +30,7 @@ Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Lin
 
 `especializacao` - _array of strings_
 
-`concentracao` - _array of strings_
+`concentracao` - _array of strings_ (deve seguir [areas-concentracao.md](/areas-concentracao.md))
 
 `origem` - _string_
 
