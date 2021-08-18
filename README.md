@@ -91,9 +91,9 @@ Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Lin
 ```
 `estudantes` - _array of objects_
 
-> `nome` - _string_
-> 
-> `hasPage` - _bool_
+    `nome` - _string_
+    
+    `hasPage` - _bool_
 
 `hasPhotos` - _bool_
 
