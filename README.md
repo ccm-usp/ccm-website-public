@@ -17,12 +17,12 @@ Os dados neste repositório devem ser incluídos em um formato pré-definido par
 **Imagem da Página Pessoal:** São dois arquivos `.jpg`, seguindo as seguintes regras:
 | Nome  | Resolução | Tamanho Máximo |
 | -------------  | ------------- | ------------- |
-| `nome-sem-espacos.jpg` | 272 × 272 pixels | 50kb |
-| `nome-sem-espacos@2x.jpg` | 544 × 544 pixels  | 100kb |
+| `nome-sem-espacos-e-acentos.jpg` | 272 × 272 pixels | 50kb |
+| `nome-sem-espacos-e-acentos@2x.jpg` | 544 × 544 pixels  | 100kb |
 
 Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Linux | OS X | Windows) ou o [PhotoPea ](https://www.photopea.com/) (Online) para garantir o tamanho e resolução.
 
-**Dados da Página Pessoal:**  Um `.json` nomeado pelo nome do estudante, onde os espacos sao substituidos por "-" (`nome-sem-espaco.json`) com os seguintes objetos:
+**Dados da Página Pessoal:**  Um `.json` nomeado pelo nome do estudante, onde os espacos sao substituidos por "-" (`nome-sem-espaco.json`) e sem acentos com os seguintes objetos:
 
 `nome` - _string_
 
