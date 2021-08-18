@@ -89,17 +89,17 @@ Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Lin
 **Lista de Estudantes:** Um `.json` nomeado pelo ano de ingresso da turma com os seguintes objetos:
 
 ```
-`estudantes` - _array of objects_
+estudantes - array of objects
 
-    `nome` - _string_
+    nome - string
     
-    `hasPage` - _bool_
+    hasPage - bool
 
-`hasPhotos` - _bool_
+hasPhotos - bool
 
-`hasMainPhoto` - _bool_
+hasMainPhoto - bool
 
-`institutos` - _bool_
+institutos - bool
 ```
 
 ### Datas do Processo Seletivo
