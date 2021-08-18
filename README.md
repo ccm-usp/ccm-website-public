@@ -26,13 +26,13 @@ Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Lin
 
 `nome` - _string_
 
-`turma` - _string_
+`turma` - _string_ (ANO)
 
 `especializacao` - _array of strings_
 
 `concentracao` - _array of strings_ (deve seguir [areas-concentracao.md](/areas-concentracao.md))
 
-`origem` - _string_
+`origem` - _string_ (CURSO)
 
 `conteudo` - _array of strings_
 
