@@ -3,31 +3,6 @@
     "turma": "2009",
     "especializacao": ["Biologia Matemática"],
     "concentracao": ["Matemática", "Microbiologia"],
-    "origem": "",
-    "conteudo": [
-        "",
-        ""
-    ],
     "avancado": ["Métodos Matemáticos para a Dinâmica de Populações de Bactérias"],
-    "extracurricular": [
-        {
-            "title": "",
-            "link": ""
-        },
-        {
-            "title": "",
-            "link": ""
-        }
-    ],
-    "conquistas": [""],
-    "contact": {
-        "email": "",
-        "lattes": "",
-        "linkedin": "",
-        "github": "",
-        "site": "",
-        "behance": "",
-        "telefone": ""
-    },
     "hasPhoto": false
 }

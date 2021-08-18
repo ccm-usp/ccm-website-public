@@ -3,31 +3,6 @@
     "turma": "2008",
     "especializacao": ["Evolução"],
     "concentracao": ["Matemática", "Ciências Biológicas", "Sociologia"],
-    "origem": "",
-    "conteudo": [
-        "",
-        ""
-    ],
     "avancado": ["Evolução da Cooperação"],
-    "extracurricular": [
-        {
-            "title": "",
-            "link": ""
-        },
-        {
-            "title": "",
-            "link": ""
-        }
-    ],
-    "conquistas": [""],
-    "contact": {
-        "email": "",
-        "lattes": "",
-        "linkedin": "",
-        "github": "",
-        "site": "",
-        "behance": "",
-        "telefone": ""
-    },
     "hasPhoto": false
 }
