@@ -23,12 +23,11 @@ Os dados neste repositório devem ser incluídos em um formato pré-definido par
 Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Linux | OS X | Windows) ou o [PhotoPea ](https://www.photopea.com/) (Online) para garantir o tamanho e resolução.
 
 **Dados da Página Pessoal:**  Um `.json` nomeado pelo nome do estudante, onde os espacos sao substituidos por "-" (`nome-sem-espaco.json`) e sem acentos com os seguintes objetos:
-
 ```
 nome - string
 turma - string (ANO)
 especializacao - array of strings
-concentracao - array of strings (deve seguir [areas-concentracao.md](/areas-concentracao.md))
+concentracao - array of strings
 origem - string (CURSO)
 conteudo - array of strings
 avancado - array of strings
@@ -47,7 +46,8 @@ contato - object
 hasPhoto - bool
 ```
 
-*Nota:* Você pode deixar qualquer campo em branco, exceto pelo seu nome e turma. O site irá dinamicamente adaptar o design da página de acordo com as informações que você fornecer.
+*Nota:* Você pode deixar qualquer campo em branco, exceto pelo seu nome e turma. O site irá dinamicamente adaptar o design da página de acordo com as informações que você fornecer. Remova as linhas não utilizadas do seu .json.
+*Nota 2:* Área de Concetração deve seguir [areas-concentracao.md](/areas-concentracao.md)).
 
 **PDFs do Avançado:** Devem ser incluídos em formato .pdf, com nome seguindo a regra `nome-sem-espaco-0.pdf`. O número no final do arquivo indica a ordem dos arquivos que serão associados à lista de projetos do avançado que você forneceu no `.json`acima.
 
