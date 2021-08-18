@@ -1,10 +1,11 @@
 {
     "concentracoes": [
-        "Matemática",
         "Ciência da Computação",
         "Ciências Biológicas",
-        "Geociências",
         "Física",
+        "Geociências",
+        "Matemática",
+        "Microbiologia",
         "Sociologia"
     ]
 }
