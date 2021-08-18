@@ -67,8 +67,8 @@ Caso sua área não exista ainda, basta criar um arquivo `nome-sem-espaco-e-acen
 **Imagem Principal:** São dois arquivos `.jpg`, seguindo as seguintes regras:
 | Nome  | Resolução | Tamanho Máximo |
 | -------------  | ------------- | ------------- |
-| `XXXX.jpg` | 876 × 300 pixels | 100kb |
-| `XXXX@2x.jpg` | 1751 × 600 pixels  | 360kb |
+| `ANO_DA_TURMA.jpg` | 876 × 300 pixels | 100kb |
+| `ANO_DA_TURMA@2x.jpg` | 1751 × 600 pixels  | 360kb |
 
 Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Linux | OS X | Windows) ou o [PhotoPea ](https://www.photopea.com/) (Online) para garantir o tamanho e resolução.
  
