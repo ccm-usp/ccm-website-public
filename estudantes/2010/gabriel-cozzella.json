@@ -1,0 +1,33 @@
+{   
+    "nome": "Gabriel Cozzella",
+    "turma": "2010",
+    "especializacao": [""],
+    "concentracao": ["Física"],
+    "origem": "",
+    "conteudo": [
+        "",
+        ""
+    ],
+    "avancado": ["Simetrias dinâmicas e suas aplicações em gravitação"],
+    "extracurricular": [
+        {
+            "title": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ],
+    "conquistas": [""],
+    "contact": {
+        "email": "",
+        "lattes": "",
+        "linkedin": "",
+        "github": "",
+        "site": "",
+        "behance": "",
+        "telefone": ""
+    },
+    "hasPhoto": false
+}
