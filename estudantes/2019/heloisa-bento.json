@@ -1,1 +1,24 @@
-
+{   
+    "nome": "Heloisa de Lazari Bento",
+    "turma": "2019",
+    "especializacao": ["Biocomputação"],
+    "concentracao": ["Processamento de Imagem", "Machine Learning"],
+    "origem": "Física",
+    "conteudo": [
+        "",
+        ""],
+    "avancado": ["Machine Learning para a Identificação de Doenças Inflamatórias de Pele"],
+    "extracurricular": [
+        {
+            "title": "Comissão Avaliadora da FEBRACE",
+            "link": ""
+        }
+    ],
+    "conquistas": [""],
+    "contact": {
+        "email": "heloisalbento@gmail.com.br",
+        "lattes": "http://lattes.cnpq.br/1817018514171726",
+        "github": "https://github.com/Hello-Helo"
+    },
+    "hasPhoto": true
+}
