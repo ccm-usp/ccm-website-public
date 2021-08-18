@@ -20,14 +20,5 @@
         }
     ],
     "conquistas": [""],
-    "contact": {
-        "email": "",
-        "lattes": "",
-        "linkedin": "",
-        "github": "",
-        "site": "",
-        "behance": "",
-        "telefone": ""
-    },
     "hasPhoto": false
 }
