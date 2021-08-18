@@ -1,12 +1,18 @@
 {
     "results": [
-        {"2015": [
-            {"nome": "Augusto Sousa Bernardi", "hasPage": false},
-            {"nome": "Breno Mariano de Sousa", "hasPage": false}
-        ]},
-        {"2009": [
-            {"nome": "Jun Igor Valente Inenami ", "hasPage": false},
-            {"nome": "Luana dos Santos Neres", "hasPage": false}
-        ]}
+        {
+            "turma": "2015",
+            "nomes": [
+                {"nome": "Augusto Sousa Bernardi", "hasPage": false},
+                {"nome": "Breno Mariano de Sousa", "hasPage": true}
+            ]
+        },
+        {
+            "turma": "2009",
+            "nomes": [
+                {"nome": "Jun Igor Valente Inenami", "hasPage": true},
+                {"nome": "Luana dos Santos Neres", "hasPage": false}
+            ]
+        }
     ]
 }
