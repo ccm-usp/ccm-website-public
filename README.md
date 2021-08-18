@@ -90,15 +90,10 @@ Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Lin
 
 ```
 estudantes - array of objects
-
     nome - string
-    
     hasPage - bool
-
 hasPhotos - bool
-
 hasMainPhoto - bool
-
 institutos - bool
 ```
 
