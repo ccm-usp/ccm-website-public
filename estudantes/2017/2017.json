@@ -27,6 +27,6 @@
         {"nome": "Victor Luccas Ramalho Moura", "hasPage": false}
     ],
     "hasPhotos": false,
-    "hasMainPhoto": false,
+    "hasMainPhoto": true,
     "institutos": false
 }
