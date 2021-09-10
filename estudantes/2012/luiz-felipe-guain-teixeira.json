@@ -1,0 +1,24 @@
+{   
+    "nome": "Luiz Felipe Guain Teixeira",
+    "turma": "2012",
+    "especializacao": ["Química Computacional", "Química Teórica", "Físico-Química", "Física Molecular", "Ressonância Magnética Nuclear"],
+    "concentracao": ["Química", "Física"],
+    "origem": "Química",
+    "conteudo": [
+      "Bacharel em Ciências Moleculares (2016) e Mestre em Ciências (Área: Química) (2019), ambos pela Universidade de São Paulo. Atualmente, estudante de doutorado em Química Computacional no Instituto de Química da Universidade de São Paulo."
+    ],
+    "avancado": ["Estudo Teórico do Isomerismo Rotacional do Captopril", "Estudo Mecanístico da Formação de β-aminoálcoois utilizando Sais de Piridínio"],
+    "extracurricular": [
+        {
+            "title": "Monitor de disciplinas (CCM0222 - Física IV em 2015, CCM0114 - Química I em 2016, CCM0124 - Química II em 2017 e 2019, CCM0124 - Química IV em 2018, QFL1242 - Físico-Química II  em 2017 e 2019, QFL1345 -
+Fundamentos de Espectroscopia e Métodos Espectroscópicos em 2020)",
+            "link": ""
+        }
+    ],
+    "contact": {
+        "email": "luiz.felipe.teixeira@usp.br" ,
+        "lattes": "http://lattes.cnpq.br/6972626930936822" ,
+        "orcid": "https://orcid.org/0000-0001-6776-3844"
+    },
+    "hasPhoto": false
+}
