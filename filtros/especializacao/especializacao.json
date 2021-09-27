@@ -1,13 +1,1 @@
-{
-    "especializacoes": [
-        "Astrobiologia",
-        "Bioinformática",
-        "Biologia Matemática",
-        "Evolução",
-        "Mecânica Estatística",
-        "Probabilidade e Teoria da Informação",
-        "Relatividade Geral",
-        "Sociofísica",
-        "Teoria Quantica de Campos"
-    ]
-}
+{"especializacoes": ["Astrobiologia", "Bioinform\u00e1tica", "Biologia Matem\u00e1tica", "Ci\u00eancia de Dados", "Evolu\u00e7\u00e3o", "Mec\u00e2nica Estat\u00edstica", "Probabilidade e Teoria da Informa\u00e7\u00e3o", "Relatividade Geral", "Sociof\u00edsica", "Teoria Quantica de Campos"]}

@@ -1,16 +1,1 @@
-{
-    "results": [
-        {
-            "turma": "2009",
-            "nomes": [
-                {"nome": "Francisco Quevedo Camargo", "hasPage": true}
-            ]
-        },
-        {
-            "turma": "2008",
-            "nomes": [
-                {"nome": "Leonardo Casarsa de Azevedo", "hasPage": true}
-            ]
-        }
-    ]
-}
+{"2009": ["Francisco Quevedo Camargo"], "2008": ["Leonardo Casarsa de Azevedo"]}

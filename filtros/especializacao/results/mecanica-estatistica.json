@@ -1,10 +1,1 @@
-{
-    "results": [
-        {
-            "turma": "2012",
-            "nomes": [
-                {"nome": "Lucas Silva Simões", "hasPage": true}
-            ]
-        }
-    ]
-}
+{"2012": ["Lucas Silva Sim\u00f5es"]}
