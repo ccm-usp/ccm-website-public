@@ -2,7 +2,7 @@
     "nome": "Carlos Eduardo Oliveira Vido",
     "turma": "2008",
     "especializacao": ["Bioinformática"],
-    "concentracao": ["Ciência da Computação, Ciências Biológicas"],
+    "concentracao": ["Ciência da Computação", "Ciências Biológicas"],
     "avancado": ["Uma abordagem computacional para a análise de propriedades estruturais e termodinâmicas da especificidade pelo substrato de metaloproteases M2"],
     "hasPhoto": false
 }
