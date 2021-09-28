@@ -33,7 +33,9 @@ jobs:
 
       # Runs the python script that builds the .json filters
       - name: Run the python script "filters.py"
-        run: python filters.py
+        run: |
+          python pip install unidecode
+          python filters.py
       
       # Commit changes
       - name: Push changes
