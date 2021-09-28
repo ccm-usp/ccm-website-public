@@ -42,7 +42,13 @@ jobs:
         run: |
           python filters.py
       
-      # Commit changes
+      # Commit/ Push changes
+      - name: Commit files
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "Rebuild Filters" -a
+        
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
