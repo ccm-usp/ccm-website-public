@@ -57,7 +57,9 @@ hasPhoto - bool
 **Importante:** Seu nome em seus arquivos pessoais deve ser o mesmo especificado na lista `.json` de estudantes da sua turma, porém, todo minúsculo e com espaços substitutidos por `-`.
 
 ### Filtros
-Se você deseja ser incluído nas buscar por Área de Concentração e/ou Área de Especialização, você deve adicionar seu nome na área correspondente em `./filtros/especializacao/results` ou `./filtros/concentracao/results`.
+**Assim que o seu pull request for commitado, uma action será executada automaticamente e te adicionará nos resultados dos filtros.**
+
+Se você deseje fazer isso manualmente, você deve adicionar seu nome na área correspondente em `./filtros/especializacao/results` ou `./filtros/concentracao/results`.
 
 Caso sua área não exista ainda, basta criar um arquivo `nome-sem-espaco-e-acento.json`, incluir seu nome. Em seguida, adicione o nome da área no arquivo `especializacao.json` ou ` concentracao.json` (em ordem alfabética).
 
