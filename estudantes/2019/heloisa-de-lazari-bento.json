@@ -1,14 +1,14 @@
 {   
     "nome": "Heloisa de Lazari Bento",
     "turma": "2019",
-    "especializacao": ["Bioinformática"],
-    "concentracao": ["Ciência da Computação", "Ciências Biológicas"],
+    "especializacao": ["Grafos", "Otimização Combinatória", "Algoritmos"],
+    "concentracao": ["Ciência da Computação"],
     "origem": "Física",
     "conteudo": [
         "Após entrar no curso de Licenciatura de Física em 2019, sentiu falta dos desafios que poderiam vir durante o período de aprendizado e a limitação de opções em seu futuro. A entrada no curso de Ciências Moleculares abriu muitas portas dando a oportunidade de se interessar por áreas que nunca haviam sido consideradas.",
-        "Durante o cíclo avançado, o projeto Machine Learning para a Identificação de Doenças Inflamatórias de Pele está sendo desenvolvido em conjunto com o Professor Helder T. I. Nakaya juntando duas áreas de interesse: a ciência da computação e da saúde."
+        "Durante o cíclo avançado, o projeto Otimização Combinatória, Algoritmos e Grafos está sendo desenvolvido em conjunto com o Professora Yoshiko Wakabayashi para aumentar o conhecimento de teoria da computação."
     ],
-    "avancado": ["Machine Learning para a Identificação de Doenças Inflamatórias de Pele"],
+    "avancado": ["Otimização Combinatória, Algoritmos e Grafos"],
     "extracurricular": [
         {
             "title": "Comissão Avaliadora da FEBRACE",
