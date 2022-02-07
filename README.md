@@ -34,6 +34,7 @@ avancado - array of strings
 extracurricular - array of objects
     title - string
     link - string
+conquistas - array of strings
 avancado - array of strings
 contato - object
     email - string
