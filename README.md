@@ -92,3 +92,6 @@ As datas do processo seletivo são governadas por `datas_selecao.json`. O websit
 `date_active` _data em que o estado será ativado no website_
 
 `date_content` _data da fase do processo em questão para ser utilizada na redação do site_
+
+### Lista de Aprovados
+Localizada no endereço [cecm.usp.br/aprovados ](http://cecm.usp.br/aprovados/). Basta carregar o arquivo aprovados.json com as informações dos estudantes. A página entra no ar no último `date_active` em `datas_selecao.json` e sai do ar automáticamente após 1 mês.
