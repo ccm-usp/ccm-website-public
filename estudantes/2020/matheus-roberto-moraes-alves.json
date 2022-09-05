@@ -1,0 +1,27 @@
+{   
+    "nome": "Matheus Roberto Moraes Alves",
+    "turma": "2020",
+    "especializacao": ["Geografia", "Demografia", "Sociologia"],
+    "concentracao": ["Ciências Humanas", "Ciências Sociais Aplicadas"],
+    "origem": "Gestão de Políticas Públicas",
+    "conteudo": [
+        "\"Estudante\" de \"humanas\" \"perdido\" em um curso de \"exatas\", mas com uma surpreendente --- para si --- paixão pelo uso da computação (mas como ferramenta para outros objetivos, e não meio principal de estudo). Ainda não encontra-se no avançado, mas é participante de grupos de estudo semelhantes aos de seu interesse.",
+        ""
+    ],
+    "avancado": [""],
+    "extracurricular": [
+        {
+            "title": "NEPSESTE ()",
+            "link": ""
+        },
+        {
+            "title": "",
+            "link": ""
+        }
+    ],
+    "contact": {
+        "email": "",
+        "lattes": "",
+    },
+    "hasPhoto": false
+}
