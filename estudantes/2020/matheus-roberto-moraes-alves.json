@@ -5,23 +5,18 @@
     "concentracao": ["Ciências Humanas", "Ciências Sociais Aplicadas"],
     "origem": "Gestão de Políticas Públicas",
     "conteudo": [
-        "\"Estudante\" de \"humanas\" \"perdido\" em um curso de \"exatas\", mas com uma surpreendente --- para si --- paixão pelo uso da computação (mas como ferramenta para outros objetivos, e não meio principal de estudo). Ainda não encontra-se no avançado, apesar de ser da Turma 30."
-        "Membro do ()"
+        "\"Estudante\" de \"humanas\" \"perdido\" em um curso de \"exatas\", mas com uma surpreendente — para si — paixão pelo uso da computação (mas como ferramenta para outros objetivos, e não meio principal de estudo). Ainda não encontra-se no avançado, apesar de ser da Turma 30."
+        "Atualmente, é membro do NEPSESTE (Núcleo de Estudos e Pesquisas em Sociologia do Espaço e do Tempo), do departamento de Sociologia da FFLCH, no qual participa do Observatório Espaço-Temporal dos Lugares Públicos de Afeto em São Paulo estudando o Museu Paulista. Além disso, realiza diversas tarefas menores ocasionais; para saber as do momento, pergunte-o."
     ],
     "avancado": [""],
     "extracurricular": [
         {
-            "title": "NEPSESTE ()",
-            "link": ""
+            "title": "NEPSESTE",
+            "link": "http://nepseste.fflch.usp.br/"
         },
-        {
-            "title": "",
-            "link": ""
-        }
     ],
     "contact": {
-        "email": "",
-        "lattes": "",
+        "email": "matheusalves@usp.br",
     },
-    "hasPhoto": false
+    "hasPhoto": true
 }
