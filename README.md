@@ -51,7 +51,7 @@ hasPhoto - bool
 
 *Nota 2:* Área de Concetração deve seguir [areas-concentracao.md](/areas-concentracao.md).
 
-*Nota 3:* Tem um template chamado [template.json](/template.json) na raiz do repositório para facilitar sua vida!
+*Nota 3:* Tem um template chamado [template.json](/template.json) e um schema [alunoCCM.schema.json](/alunoCCM.schema.json) na raiz do repositório para facilitar sua vida! Recomendo usar o schema e o template com um validador online ([este, por exemplo](https://www.jsonschemavalidator.net/)), para ter certeza de que está formatado corretamente.
 
 **PDFs do Avançado:** Devem ser incluídos em formato .pdf, com nome seguindo a regra `nome-sem-espaco-0.pdf`. O número no final do arquivo indica a ordem dos arquivos que serão associados à lista de projetos do avançado que você forneceu no `.json`acima.
 
