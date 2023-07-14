@@ -21,7 +21,7 @@
         {"nome": "Thiago Roberto dos Santos", "hasPage": false, "hasMainPhoto": true},
         {"nome": "Tomás Tamaki Amadio Fujiwara", "hasPage": false, "hasMainPhoto": true}
     ],
-    "hasPhotos": false,
+    "hasPhotos": true,
     "hasMainPhoto": true,
     "institutos": false
 }
