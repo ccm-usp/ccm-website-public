@@ -20,7 +20,16 @@ Os dados neste repositório devem ser incluídos em um formato pré-definido par
 | `nome-sem-espacos-e-acentos.jpg` | 272 × 272 pixels | 50kb |
 | `nome-sem-espacos-e-acentos@2x.jpg` | 544 × 544 pixels  | 100kb |
 
-Você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Linux | OS X | Windows) ou o [PhotoPea ](https://www.photopea.com/) (Online) para garantir o tamanho e resolução.
+A forma mais fácil de editar as fotos é instalar o [ImageMagick](imagemagick.org) e redimensionar as imagens usando os seguintes comandos no seu terminal:
+
+```
+magick foto-original.jpg -resize 272 -quality 95 nome-sem-espacos-e-acentos.jpg
+magick foto-original.jpg -resize 544 -quality 95 nome-sem-espacos-e-acentos@2x.jpg
+```
+
+Se você tiver muitas imagens para serem editadas, você pode usar o arquivo `photoProcessing.ps1` no Windows. Basta clicar com o botão direito em "Executar com o PowerShell".
+
+Se você não tem familiaridade com o terminal, você pode usar ferramentas gratuitas como o [Gimp ](https://www.gimp.org/) (Linux | OS X | Windows) ou o [PhotoPea ](https://www.photopea.com/) (Online) para garantir o tamanho e resolução.
 
 **Dados da Página Pessoal:**  Um `.json` nomeado pelo nome do estudante, onde os espacos sao substituidos por "-" (`nome-sem-espaco.json`) e sem acentos com os seguintes objetos:
 ```
