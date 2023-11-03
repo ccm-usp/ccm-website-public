@@ -1,0 +1,31 @@
+{
+    "nome": "Sadi Kneipp Neto",
+    "turma": "2015",
+    "especializacao": [
+        "Machine Learning"
+    ],
+    "concentracao": [
+        "Ciencia da computação"
+    ],
+    "origem": "Escola Politécnica",
+    "conteudo": [
+        "Bacharel em Ciências Moleculares pela Universidade de São Paulo (formado em 2019). Atualmente engenheiro de Software do Google em Seattle"
+    ],
+    "avancado": [
+        "Machine Learning applied to sound processing in medical diagnosis"
+    ],
+    "extracurricular": [
+        {
+            "title": "ThundeRatz",
+            "link": "https://thunderatz.org/"
+        }
+    ],
+    "conquistas": [
+        ""
+    ],
+    "contact": {
+        "linkedin": "https://www.linkedin.com/in/sadi-kneipp/",
+        "github": "https://github.com/sadikneipp"
+    },
+    "hasPhoto": true
+}
