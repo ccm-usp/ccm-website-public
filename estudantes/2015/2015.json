@@ -7,7 +7,7 @@
         {"nome": "Marco Lázaro de Souza Batista", "hasPage": false},
         {"nome": "Nelson Orsalino", "hasPage": false},
         {"nome": "Rafael Zuolo Coppini Lima", "hasPage": false},
-        {"nome": "Sadi Kneipp Neto", "hasPage": false},
+        {"nome": "Sadi Kneipp Neto", "hasPage": true},
         {"nome": "Tibor Zequini Boglar", "hasPage": false}
     ],
     "hasPhotos": false,
