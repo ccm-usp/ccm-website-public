@@ -1,0 +1,23 @@
+{
+    "nome": "Renata Prôa Dalle Lucca",
+    "turma": "2016",
+    "especializacao": ["Neurociência", "Inteligência Artificial"],
+    "concentracao": ["Neurociência", "Estatística", "Ciência da Computação"],
+    "origem": "Instituto de Matemática e Estatística",
+    "conteudo": [
+        "Bacharela em Ciências Moleculares e em Matemática Aplicada e Computacional com Habilitação em Sistemas de Controle pela Universidade de São Paulo, doutoranda em Neurociência Teórica na Columbia University em Nova York e cientista de dados do Hospital Israelita Albert Einstein."
+    ],
+    "avancado": ["Funcional Near-Infrared Spectroscopy in Focal Upper Limb Dystonia" , "Concept Activation Vectors for Explainability in Deep Learning for Skin Cancer Classification"],
+    "extracurricular": [
+        {
+            "title": "Academia de Música da OSESP",
+            "link": ""
+        },
+    ],
+    "contact": {
+
+        "linkedin": "https://www.linkedin.com/in/renata-prôa-6b7902130"
+
+    },
+    "hasPhoto": true
+}
