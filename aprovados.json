@@ -1,114 +1,119 @@
 {
   "aprovados": [
     {
-      "nome": "Amanda Youssef Campos",
-      "curso": "Geofísica",
-      "instituto": "Instituto de Astronomia, Geofísica e Ciências Atmosféricas"
-    },
-    {
-      "nome": "Ana Luiza Cavallari de Oliveira",
-      "curso": "Oceanografia",
-      "instituto": "Instituto Oceanográfico"
-    },
-    {
-      "nome": "André Vinícius Ortega Campanelli",
-      "curso": "Física",
-      "instituto": "Instituto de Física"
-    },
-    {
-      "nome": "Bárbara Corrêa Hungria Pinto",
-      "curso": "Pedagogia",
-      "instituto": "Faculdade de Educação"
-    },
-    {
-      "nome": "Bianca Ferreira Martins",
-      "curso": "Engenharia Química",
+      "nome": "Alice Alves Bozzi",
+      "curso": "Engenharia Ambiental",
       "instituto": "Escola Politécnica"
     },
     {
-      "nome": "Branco Fernandes Peixoto",
-      "curso": "Engenharia Elétrica",
-      "instituto": "Escola Politécnica"
+      "nome": "Anna Sophia Melo de Omena",
+      "curso": "Saúde Pública",
+      "instituto": "Faculdade de Saúde Pública"
     },
     {
-      "nome": "Carolina Iwamoto Scaliante",
-      "curso": "Bacharelhado em Matemática Aplicada",
+      "nome": "Bruna Rodrigues da Silva",
+      "curso": "Licenciatura em Matemática",
       "instituto": "Instituto de Matemática e Estatística"
     },
     {
-      "nome": "Eduardo Alves Ribeiro",
-      "curso": "Ciências Biomédicas",
-      "instituto": "Instituto de Ciências Biomédicas"
+      "nome": "Bruno Kleine Mollica",
+      "curso": "Estatísica",
+      "instituto": "Instituto de Matemática e Estatística"
     },
     {
-      "nome": "Émerson Rodrigues Martins Filho",
-      "curso": "Química",
-      "instituto": "Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto"
+      "nome": "Carol Carvalho do Vale",
+      "curso": "Biotecnologia",
+      "instituto": "Escola de Artes, Ciências e Humanidades"
     },
     {
-      "nome": "Fabrício Itikawa",
+      "nome": "Carolina Gosling do Amaral",
+      "curso": "Licenciatura em Matemática",
+      "instituto": "Instituto de Matemática e Estatística"
+    },
+    {
+      "nome": "Cauê Raffaini Brondi",
+      "curso": "Bacharelado em Física",
+      "instituto": "Instituto de Física"
+    },
+    {
+      "nome": "Christian Ida Sini Garcia Vitiello",
+      "curso": "Engenharia Aeronáutica",
+      "instituto": "Escola de Engenharia de São Carlos"
+    },
+    {
+      "nome": "Diego Alexandre Tomaz dos santos",
+      "curso": "Nutrição e Metabolismo",
+      "instituto": "Faculdade de Medicina de Ribeirão Preto"
+    },
+    {
+      "nome": "Felipe Lotufo Giavina Bianchi",
       "curso": "Engenharia Elétrica",
       "instituto": "Escola Politécnica"
     },
     {
-      "nome": "Felipe Amorim de Souza",
+      "nome": "Felipe Schoenacker Wey",
       "curso": "Química",
       "instituto": "Instituto de Química"
     },
     {
-      "nome": "Fernanda Caroline Cavalcante Conrado",
-      "curso": "Sistemas de Informação",
-      "instituto": "Escola de Artes, Ciências e Humanidades"
+      "nome": "Felipe Wassmer Magina",
+      "curso": "Engenharia Mecânica",
+      "instituto": "Escola Politécnica"
     },
     {
-      "nome": "Francisco do Rego",
-      "curso": "Letras",
-      "instituto": "Faculdade de Filosofia, Letras e Ciências Humanas"
+      "nome": "Fernanda Cesar da Silva",
+      "curso": "Engenharia Elétrica",
+      "instituto": "Escola Politécnica"
     },
     {
-      "nome": "Gabriel Silva Rocha",
-      "curso": "Ciências Biológicas",
-      "instituto": "Instituto de Biociências"
-    },
-    {
-      "nome": "Giovana Nogueira Rodrigues",
-      "curso": "Licenciatura em Ciências da Natureza",
-      "instituto": "Escola de Artes, Ciências e Humanidades"
-    },
-    {
-      "nome": "Gustavo Moretti Duarte",
+      "nome": "Francisco Bergamin Rodrigues",
       "curso": "Filosofia",
       "instituto": "Faculdade de Filosofia, Letras e Ciências Humanas"
     },
     {
-      "nome": "Gustavo Ribeiro Bernardo",
-      "curso": "Química",
-      "instituto": "Instituto de Química"
+      "nome": "Gabriel Poliese Bianchi da Silveira",
+      "curso": "Ciências Biomédicas",
+      "instituto": "Instituto de Ciências Biomédicas"
     },
     {
-      "nome": "Gustavo Souza Podboi Adachi",
-      "curso": "Matemática Aplicada",
+      "nome": "Gustavo Silva Garone",
+      "curso": "Estatísica",
       "instituto": "Instituto de Matemática e Estatística"
     },
     {
-      "nome": "Helena Baptista Reis",
-      "curso": "Ciência da Computação",
-      "instituto": "Instituto de Matemática e Estatística"
-    },
-    {
-      "nome": "Jhuann Piedro Alves Nogueira",
-      "curso": "Física ",
+      "nome": "Henry Acciari dos Santos Cardoso",
+      "curso": "Bacharelado em Física",
       "instituto": "Instituto de Física"
     },
     {
-      "nome": "João Gabriel Salla D. C. Pereira de Mattos",
-      "curso": "Sistemas de Informação",
-      "instituto": "Escola de Artes, Ciências e Humanidades"
+      "nome": "Heraldo Mauch",
+      "curso": "Ciências Biológicas",
+      "instituto": "Instituto de Biociências"
     },
     {
-      "nome": "João Pedro Moritz de Carvalho",
-      "curso": "Saúde Pública",
-      "instituto": "Faculdade de Saúde Pública"
+      "nome": "Hillary Dandara Elias Gabriel",
+      "curso": "Engenharia Elétrica",
+      "instituto": "Escola Politécnica"
+    },
+    {
+      "nome": "Igor Fernandes Braz",
+      "curso": "Medicina ",
+      "instituto": "Faculdade de Medicina"
+    },
+    {
+      "nome": "Jhoseff Danilo Gonçalves Nascimento",
+      "curso": "Bacharelado em física",
+      "instituto": "Instituto de Física"
+    },
+    {
+      "nome": "João Gabriel Rodrigues Campos",
+      "curso": "Bacharelado em química",
+      "instituto": "Instituto de Química de São Carlos"
+    },
+    {
+      "nome": "Joaquim de Paula Barros Sousa",
+      "curso": "Bacharelado em física",
+      "instituto": "Instituto de física"
     },
     {
       "nome": "José Alexandre Soares de Oliveira",
@@ -116,84 +121,79 @@
       "instituto": "Faculdade de Filosofia, Letras e Ciências Humanas"
     },
     {
-      "nome": "José Eduardo Pascalicchio Bertozzi",
-      "curso": "Ciências Biológicas",
-      "instituto": "Instituto de Biociências"
+      "nome": "Larissa Meloni Limeira",
+      "curso": "Oceanografia",
+      "instituto": "Instituto de Oceanografia"
     },
     {
-      "nome": "Keith Loren Wielewski",
-      "curso": "Física",
+      "nome": "Leonam Monteiro Mendonça Xavier",
+      "curso": "Administração",
+      "instituto": "Faculdade de Economia e Administração"
+    },
+    {
+      "nome": "Letícia Laurindo",
+      "curso": "Bacharelado em Física",
       "instituto": "Instituto de Física"
     },
     {
-      "nome": "Leonardo Cerutti Piccoli Bergamann",
-      "curso": "Ciências Biológicas",
-      "instituto": "Instituto de Biociências"
-    },
-    {
-      "nome": "Luca Marinho Nasser Valadares Paiva",
-      "curso": "Química",
-      "instituto": "Instituto de Química"
-    },
-    {
-      "nome": "Lucas Lima dos Santos",
-      "curso": "Engenharia de Materiais",
-      "instituto": "Escola Politécnica"
-    },
-    {
-      "nome": "Lucas Maia Fontes Piñeiro",
-      "curso": "Ciências Biológicas",
-      "instituto": "Instituto de Biociências"
-    },
-    {
-      "nome": "Lucas Oliveira Gotelip de Melo",
-      "curso": "Ciência da Computação",
-      "instituto": "Instituto de Matemática e Estatística"
-    },
-    {
-      "nome": "Maria Eduarda de Oliveira Santos",
-      "curso": "Engenharia Bioquímica",
-      "instituto": "Escola de Engenharia de Lorena"
-    },
-    {
-      "nome": "Matheus Ferrer Lino",
-      "curso": "Química",
-      "instituto": "Instituto de Química"
-    },
-    {
-      "nome": "Maylson de Alencar Barbosa",
-      "curso": "Arquitetura e Urbanismo",
-      "instituto": "Faculdade de Arquitetura e Urbanismo"
-    },
-    {
-      "nome": "Pedro Mariano Viana Neto",
-      "curso": "Matemática",
-      "instituto": "Instituto de Matemática e Estatística"
-    },
-    {
-      "nome": "Pietra Precioso Figueiredo Alves",
-      "curso": "Engenharia Ambiental",
-      "instituto": "Escola Politécnica"
-    },
-    {
-      "nome": "Raimundo Vinícius Silva de Arruda",
-      "curso": "Direito",
-      "instituto": "Faculdade de Direito"
-    },
-    {
-      "nome": "Rodrigo Morgan Negrão",
-      "curso": "História",
+      "nome": "Lia França Marques",
+      "curso": "Letras",
       "instituto": "Faculdade de Filosofia, Letras e Ciências Humanas"
     },
     {
-      "nome": "Rodrigo Rocha de Almeida",
-      "curso": "Obstetrícia",
+      "nome": "Lívia Veronezi",
+      "curso": "Biotecnologia",
       "instituto": "Escola de Artes, Ciências e Humanidades"
     },
     {
-      "nome": "Thaís Martins de Sousa",
-      "curso": "Engenharia Mecatrônica",
-      "instituto": "Escola Politécnica"
+      "nome": "Luan Ricardo Leal Ramos",
+      "curso": "Geociências",
+      "instituto": "Instituto de Geociências"
+    },
+    {
+      "nome": "Luíza Lucchetti Oddi Lourenço",
+      "curso": "Bacharelado em Física",
+      "instituto": "Instituto de Física"
+    },
+    {
+      "nome": "Maria Eduarda Pedroso Barbosa",
+      "curso": "Medicina",
+      "instituto": "Faculdade de Medicina"
+    },
+    {
+      "nome": "Martinna Marz Waromby Monteiro",
+      "curso": "Geofísica",
+      "instituto": "Instituto de Astronomia, Geofísica e Ciências Atmosféricas"
+    },
+    {
+      "nome": "Matheus da Costa Justino",
+      "curso": "Biotecnologia",
+      "instituto": "Escola de Artes, Ciências e Humanidades"
+    },
+    {
+      "nome": "Matheus Ramos de Oliveira Queiroz",
+      "curso": "Bacharelado em Matemática Aplicada e Computacional",
+      "instituto": "Instituto de Matemática e Estatística"
+    },
+    {
+      "nome": "Micael Mantovani Baruch",
+      "curso": "Biotecnologia",
+      "instituto": "Escola de Artes, Ciências e Humanidades"
+    },
+    {
+      "nome": "Nícollas Candido Silva",
+      "curso": "Bacharelado em Física",
+      "instituto": "Instituto de Física"
+    },
+    {
+      "nome": "Sabrina Pires Oliveira Cruz",
+      "curso": "Biotecnologia",
+      "instituto": "Escola de Artes, Ciências e Humanidades"
+    },
+    {
+      "nome": "Sofia Figueiredo Forti",
+      "curso": "Física Médica",
+      "instituto": "Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto"
     }
   ]
 }
