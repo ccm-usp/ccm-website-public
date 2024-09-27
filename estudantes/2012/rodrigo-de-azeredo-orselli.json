@@ -1,0 +1,19 @@
+{   
+    "nome": "Rodrigo de Azeredo Orselli",
+    "turma": "2012",
+    "especializacao": ["Física-Matemática","Relatividade Geral"],
+    "concentracao": ["Matemática","Física"],
+    "origem": "Engenharia Mecatrônica (EESC)",
+    "conteudo": [
+        "Bacharel em Ciências Moleculares pela Universidade de São Paulo (2016) e Mestre em Física pela Universidade de São Paulo (2023)."
+    ],
+    "avancado": ["Introdução aos Métodos Matemáticos da Física Teórica"],
+    "contact": {
+        "email": "rodrigo.orselli@alumni.usp.br",
+        "lattes": "http://lattes.cnpq.br/7816355047110673",
+        "linkedin": "https://www.linkedin.com/in/rodrigo-orselli-8251b5238/",
+        "github": "https://github.com/orsll",
+	"orcid": "https://orcid.org/0000-0002-5934-1673"
+    },
+    "hasPhoto": true
+}
