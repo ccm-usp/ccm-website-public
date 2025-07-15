@@ -1,59 +1,59 @@
 {
   "aprovados": [
     {
-      "nome": "Alice Alves Bozzi",
-      "curso": "Engenharia Ambiental",
-      "instituto": "Escola Politécnica"
-    },
-    {
-      "nome": "Anna Sophia Melo de Omena",
-      "curso": "Saúde Pública",
-      "instituto": "Faculdade de Saúde Pública"
-    },
-    {
-      "nome": "Bruna Rodrigues da Silva",
+      "nome": "Arthur Ferreira Sampaio",
       "curso": "Licenciatura em Matemática",
-      "instituto": "Instituto de Matemática e Estatística"
+      "instituto": "IME"
     },
     {
-      "nome": "Bruno Kleine Mollica",
-      "curso": "Estatísica",
-      "instituto": "Instituto de Matemática e Estatística"
+      "nome": "Beatriz Silva Godoi",
+      "curso": "Letras",
+      "instituto": "FFLCH"
     },
     {
-      "nome": "Carol Carvalho do Vale",
+      "nome": "Brigite Milan Câmara",
+      "curso": "Ciências Biomédicas",
+      "instituto": "ICB"
+    },
+    {
+      "nome": "Carlos Daniel de Oliveira Vaz",
+      "curso": "Engenharia Bioquímica",
+      "instituto": "EACH"
+    },
+    {
+      "nome": "Carlos Eduardo Arantes Garcia Assis e Gomes",
       "curso": "Biotecnologia",
-      "instituto": "Escola de Artes, Ciências e Humanidades"
+      "instituto": "EEL"
     },
     {
-      "nome": "Carolina Gosling do Amaral",
-      "curso": "Licenciatura em Matemática",
-      "instituto": "Instituto de Matemática e Estatística"
+      "nome": "Cleysla Oliveira Santos",
+      "curso": "Ciências Biológicas",
+      "instituto": "IB"
     },
     {
-      "nome": "Cauê Raffaini Brondi",
-      "curso": "Bacharelado em Física",
-      "instituto": "Instituto de Física"
+      "nome": "Enrico Rodrigues Ravazzani Simoni",
+      "curso": "Engenharia Civil",
+      "instituto": "POLI"
     },
     {
-      "nome": "Christian Ida Sini Garcia Vitiello",
-      "curso": "Engenharia Aeronáutica",
-      "instituto": "Escola de Engenharia de São Carlos"
+      "nome": "Estevon Biazussi Bonai",
+      "curso": "Sistemas de Informação",
+      "instituto": "EACH"
     },
     {
-      "nome": "Diego Alexandre Tomaz dos Santos",
-      "curso": "Nutrição e Metabolismo",
-      "instituto": "Faculdade de Medicina de Ribeirão Preto"
+      "nome": "Felipe Ferreira Fabris",
+      "curso": "Bacharelado em Química",
+      "instituto": "IQ"
     },
     {
-      "nome": "Felipe Lotufo Giavina Bianchi",
-      "curso": "Engenharia Elétrica",
-      "instituto": "Escola Politécnica"
+      "nome": "Gabriel Lucena da Cunha",
+      "curso": "Matemática Aplicada e Computação",
+      "instituto": "IME"
     },
     {
-      "nome": "Felipe Schoenacker Wey",
-      "curso": "Química",
-      "instituto": "Instituto de Química"
+      "nome": "Gabriel Minoru Pessoa Nakamura",
+      "curso": "Engenharia de Produção",
+      "instituto": "POLI"
     },
     {
       "nome": "Felipe Wassmer Magina",
@@ -61,139 +61,105 @@
       "instituto": "Escola Politécnica"
     },
     {
-      "nome": "Fernanda Cesar da Silva",
-      "curso": "Engenharia Elétrica",
-      "instituto": "Escola Politécnica"
-    },
-    {
-      "nome": "Francisco Bergamin Rodrigues",
-      "curso": "Filosofia",
-      "instituto": "Faculdade de Filosofia, Letras e Ciências Humanas"
-    },
-    {
-      "nome": "Gabriel Poliese Bianchi da Silveira",
-      "curso": "Ciências Biomédicas",
-      "instituto": "Instituto de Ciências Biomédicas"
-    },
-    {
-      "nome": "Gustavo Silva Garone",
-      "curso": "Estatísica",
-      "instituto": "Instituto de Matemática e Estatística"
-    },
-    {
-      "nome": "Henry Acciari dos Santos Cardoso",
-      "curso": "Bacharelado em Física",
-      "instituto": "Instituto de Física"
-    },
-    {
-      "nome": "Heraldo Mauch",
-      "curso": "Ciências Biológicas",
-      "instituto": "Instituto de Biociências"
-    },
-    {
-      "nome": "Hillary Dandara Elias Gabriel",
-      "curso": "Engenharia Elétrica",
-      "instituto": "Escola Politécnica"
-    },
-    {
-      "nome": "Igor Fernandes Braz",
-      "curso": "Medicina",
-      "instituto": "Faculdade de Medicina"
+      "nome": "Gustavo Jun Goia",
+      "curso": "Arquitetura e Urbanismo",
+      "instituto": "FAU"
     },
     {
       "nome": "Jhoseff Danilo Gonçalves Nascimento",
       "curso": "Bacharelado em Física",
-      "instituto": "Instituto de Física"
+      "instituto": "IF"
     },
     {
-      "nome": "João Gabriel Rodrigues Campos",
-      "curso": "Química",
-      "instituto": "Instituto de Química de São Carlos"
-    },
-    {
-      "nome": "Joaquim de Paula Barros Sousa",
-      "curso": "Bacharelado em Física",
-      "instituto": "Instituto de Física"
-    },
-    {
-      "nome": "José Alexandre Soares de Oliveira",
-      "curso": "Ciências Sociais",
-      "instituto": "Faculdade de Filosofia, Letras e Ciências Humanas"
-    },
-    {
-      "nome": "Larissa Meloni Limeira",
-      "curso": "Oceanografia",
-      "instituto": "Instituto de Oceanografia"
-    },
-    {
-      "nome": "Leonam Monteiro Mendonça Xavier",
-      "curso": "Administração",
-      "instituto": "Faculdade de Economia e Administração"
-    },
-    {
-      "nome": "Letícia Laurindo",
-      "curso": "Bacharelado em Física",
-      "instituto": "Instituto de Física"
-    },
-    {
-      "nome": "Lia França Marques",
+      "nome": "Luana Queiroz Charbel",
       "curso": "Letras",
-      "instituto": "Faculdade de Filosofia, Letras e Ciências Humanas"
+      "instituto": "FFLCH"
     },
     {
-      "nome": "Lívia Veronezi",
-      "curso": "Biotecnologia",
-      "instituto": "Escola de Artes, Ciências e Humanidades"
+      "nome": "Lucas Abdala Nani Nasser",
+      "curso": "Psicologia",
+      "instituto": "IP"
     },
     {
-      "nome": "Luan Ricardo Leal Ramos",
-      "curso": "Geociências",
-      "instituto": "Instituto de Geociências"
-    },
-    {
-      "nome": "Luíza Lucchetti Oddi Lourenço",
+      "nome": "Lucas de Melo",
       "curso": "Bacharelado em Física",
-      "instituto": "Instituto de Física"
+      "instituto": "IF"
     },
     {
-      "nome": "Maria Eduarda Pedroso Barbosa",
-      "curso": "Medicina",
-      "instituto": "Faculdade de Medicina"
+      "nome": "Lucas Pereira de Brito",
+      "curso": "Bacharelado em Oceanografia",
+      "instituto": "IO"
     },
     {
-      "nome": "Martinna Marz Waromby Monteiro",
-      "curso": "Geofísica",
-      "instituto": "Instituto de Astronomia, Geofísica e Ciências Atmosféricas"
-    },
-    {
-      "nome": "Matheus da Costa Justino",
-      "curso": "Biotecnologia",
-      "instituto": "Escola de Artes, Ciências e Humanidades"
-    },
-    {
-      "nome": "Matheus Ramos de Oliveira Queiroz",
-      "curso": "Bacharelado em Matemática Aplicada e Computacional",
-      "instituto": "Instituto de Matemática e Estatística"
-    },
-    {
-      "nome": "Micael Mantovani Baruch",
-      "curso": "Biotecnologia",
-      "instituto": "Escola de Artes, Ciências e Humanidades"
-    },
-    {
-      "nome": "Nícollas Candido Silva",
+      "nome": "Luiz Guilherme Ferreira da Silva",
       "curso": "Bacharelado em Física",
-      "instituto": "Instituto de Física"
+      "instituto": "IF"
     },
     {
-      "nome": "Sabrina Pires Oliveira Cruz",
-      "curso": "Biotecnologia",
-      "instituto": "Escola de Artes, Ciências e Humanidades"
+      "nome": "Marcela Luisa de Almeida Rezende",
+      "curso": "Letras",
+      "instituto": "FFLCH"
     },
     {
-      "nome": "Sofia Figueiredo Forti",
+      "nome": "Maria Clara Baldini Bianchi",
+      "curso": "Bacharelado em Química",
+      "instituto": "IQ"
+    },
+    {
+      "nome": "Matheus Regis Kabakian Albano",
+      "curso": "Engenharia de Materiais",
+      "instituto": "POLI"
+    },
+    {
+      "nome": "Matheus Rodrigues Batista",
+      "curso": "Engenharia Florestal",
+      "instituto": "ESALQ"
+    },
+    {
+      "nome": "Matheus Wenzl Fernandes Martins",
+      "curso": "Bacharelado em Química",
+      "instituto": "IQ"
+    },
+    {
+      "nome": "Rafaela de Lima Moraes",
+      "curso": "Ciências Biológicas",
+      "instituto": "IB"
+    },
+    {
+      "nome": "Raissa de Paula Martins",
+      "curso": "Ciências Biológicas",
+      "instituto": "IB"
+    },
+    {
+      "nome": "Salvatore Coda De Angelis",
+      "curso": "Engenharia Física",
+      "instituto": "EEL"
+    },
+    {
+      "nome": "Samuel Ferreira Lemos",
+      "curso": "Medicina Veterinária",
+      "instituto": "FMZV"
+    },
+    {
+      "nome": "Vinicius Baptistei Miranda",
       "curso": "Física Médica",
-      "instituto": "Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto"
+      "instituto": "FFCLRP "
+    },
+    {
+      "nome": "Vinicius Zocal de Macedo do Amaral",
+      "curso": "Psicologia",
+      "instituto": "IP"
+    },
+    {
+      "nome": "Weber Thiago Queiroz do Nascimento",
+      "curso": "Bacharelado em Astronomia",
+      "instituto": "IAG"
+    },
+    {
+      "nome": "Yan Adriano Manoel Dias",
+      "curso": "Licenciatura em Física",
+      "instituto": "IF"
     }
+
   ]
 }
