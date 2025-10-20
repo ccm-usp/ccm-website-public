@@ -1,0 +1,20 @@
+{   
+    "nome": "Lorenzo Follador",
+    "turma": "2019",
+    "especializacao": ["Físico-Química", "Dinâmica Molecular", "Líquidos Iônicos"],
+    "concentracao": ["Química"],
+    "origem": "Química",
+    "conteudo": [
+        "O interesse por entender o mundo físico levou Lorenzo a buscar uma carreira nas ciências, mas a segmentação nas disciplinas tradicionais sempre deixava alguma abordagem de fora. A interação da química com a física, a matemática e a ciência da computação motivou a mudança para o Curso de Ciências Moleculares, e o caminho da sua pesquisa reflete essa relação: através de simulações computacionais, diferentes líquidos iônicos são avaliados em suas capacidades de absorção de redução de CO2, com vistas à atender as demandas globais por captura de carbono.",
+        "Além das ciências, Lorenzo mantém uma admiração muito grande pelas artes - em especial pela música."
+    ],
+    "avancado": ["Efeitos da Solubilização de CO2 em Líquidos Iônicos de Interesse Eletroquímico"],
+    
+    "contact": {
+        "email": "https://lorenzofollador.com/contact.html",
+        "lattes": "http://lattes.cnpq.br/4661828790695809",
+        "github": "http://www.gitlab.com/lorenzofollador",
+        "site": "http://www.lorenzofollador.com"       
+    },
+    "hasPhoto": true
+}
