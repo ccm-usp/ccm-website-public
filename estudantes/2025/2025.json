@@ -32,7 +32,7 @@
         {"nome": "Weber Thiago Queiroz do Nascimento", "hasPage": false, "hasMainPhoto": false},
         {"nome": "Yan Adriano Manoel Dias", "hasPage": false, "hasMainPhoto": false}
     ],
-    "hasPhotos": false,
-    "hasMainPhoto": true,
+    "hasPhotos": true,
+    "hasMainPhoto": false,
     "institutos": false
 }
