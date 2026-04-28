@@ -1,0 +1,30 @@
+{
+    "nome": "Luca Marinho Nasser Valadares Paiva",
+    "turma": "2023",
+    "especializacao": ["Biologia Computacional e Modelagem"],
+    "concentracao": ["Ciência da Computação", "Ciências Biológicas", "Matemática"],
+    "origem": "Instituto de Química",
+    "conteudo": [
+        "Sou estudante de graduação em Ciências Moleculares na Universidade de São Paulo (USP), um curso onde física, química, biologia, matemática e computação se cruzam constantemente. É o tipo de lugar onde em um dia você está modelando o dobramento de proteínas e no outro simulando uma cadeia de Markov — e essa mistura é exatamente o que eu amo.",
+        "Sou profundamente fascinado por computação, estatística e modelagem matemática. Ultimamente, tenho migrado do trabalho em laboratório úmido para a ciência computacional aplicada e a modelagem quantitativa.",
+        "Fora do laboratório e do código, gosto de Tolkien, literatura fantástica, RPGs e jogos de tabuleiro — sempre em busca da beleza silenciosa do conhecimento aparentemente 'inútil'."
+    ],
+    "avancado": ["Seascapes Endógenas: investigação de se interações sociais frequência-dependentes em populações estruturadas são suficientes para gerar fitness flux estacionário positivo em ambiente constante, generalizando o formalismo de Mustonen & Lässig (2009, 2010)."],
+    "extracurricular": [
+        {
+            "title": "Banca Avaliadora da FEBRACE",
+            "link": ""
+        },
+        {
+            "title": "Desenvolvimento do Site da Biblioteca do Ciências Moleculares",
+            "link": "https://bibliotecamoleculares.com"
+        }
+    ],
+    "conquistas": [],
+    "contato": {
+        "email": "lucaanasser@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/lucanasser",
+        "github": "https://github.com/lucaanasser"
+    },
+    "hasPhoto": true
+}
