@@ -2,8 +2,8 @@
   "states": [
     {
       "title": "inscrições abertas",
-      "date_active": "03 06 2025 0 0",
-      "date_content": "27 06 2025 23 59"
+      "date_active": "15 05 2026 08 00",
+      "date_content": "12 06 2026 17 00"
     },
     {
       "title": "primeira fase",
@@ -17,7 +17,7 @@
     },
     {
       "title": "resultados",
-      "date_active": "15 07 2025 14 00",
+      "date_active": "13 07 2026 14 00",
       "date_content": "15 07 2025 14 00"
     }
   ]
